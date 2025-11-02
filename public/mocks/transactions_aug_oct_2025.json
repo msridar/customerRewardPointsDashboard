@@ -1,0 +1,6004 @@
+{
+  "transactions": [
+    {
+      "id": "txn_005",
+      "amount": 180.57,
+      "currency": "USD",
+      "date": "2025-10-28T22:45:00Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_822",
+      "customer": {
+        "name": "Mason Thomas",
+        "email": "mason.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_070",
+      "amount": 28.96,
+      "currency": "USD",
+      "date": "2025-10-28T21:07:38Z",
+      "description": "Online order",
+      "customer_id": "cust_916",
+      "customer": {
+        "name": "Lucas Perez",
+        "email": "lucas.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_252",
+      "amount": 134.08,
+      "currency": "USD",
+      "date": "2025-10-28T17:44:46Z",
+      "description": "Online order",
+      "customer_id": "cust_429",
+      "customer": {
+        "name": "Benjamin Brown",
+        "email": "benjamin.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_469",
+      "amount": 264.27,
+      "currency": "USD",
+      "date": "2025-10-28T08:57:07Z",
+      "description": "Service payment",
+      "customer_id": "cust_553",
+      "customer": {
+        "name": "John Taylor",
+        "email": "john.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_416",
+      "amount": 224.2,
+      "currency": "USD",
+      "date": "2025-10-28T06:17:42Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_388",
+      "customer": {
+        "name": "Sophia Miller",
+        "email": "sophia.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_433",
+      "amount": 59.92,
+      "currency": "USD",
+      "date": "2025-10-28T03:05:31Z",
+      "description": "Service payment",
+      "customer_id": "cust_122",
+      "customer": {
+        "name": "Emma Martin",
+        "email": "emma.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_112",
+      "amount": 122.53,
+      "currency": "USD",
+      "date": "2025-10-27T21:58:27Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_879",
+      "customer": {
+        "name": "Ella Moore",
+        "email": "ella.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_216",
+      "amount": 183.6,
+      "currency": "USD",
+      "date": "2025-10-27T16:51:34Z",
+      "description": "Refund",
+      "customer_id": "cust_929",
+      "customer": {
+        "name": "Noah Johnson",
+        "email": "noah.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_142",
+      "amount": 220.82,
+      "currency": "USD",
+      "date": "2025-10-27T14:59:48Z",
+      "description": "Service payment",
+      "customer_id": "cust_389",
+      "customer": {
+        "name": "Liam Jones",
+        "email": "liam.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_209",
+      "amount": 226.39,
+      "currency": "USD",
+      "date": "2025-10-27T12:58:07Z",
+      "description": "Online order",
+      "customer_id": "cust_916",
+      "customer": {
+        "name": "Mason Lee",
+        "email": "mason.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_373",
+      "amount": 134.99,
+      "currency": "USD",
+      "date": "2025-10-27T10:00:33Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_104",
+      "customer": {
+        "name": "Benjamin Thomas",
+        "email": "benjamin.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_432",
+      "amount": 139.5,
+      "currency": "USD",
+      "date": "2025-10-27T06:32:15Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_786",
+      "customer": {
+        "name": "Ava Martinez",
+        "email": "ava.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_039",
+      "amount": 41.85,
+      "currency": "USD",
+      "date": "2025-10-27T05:14:10Z",
+      "description": "Service payment",
+      "customer_id": "cust_586",
+      "customer": {
+        "name": "Emma Taylor",
+        "email": "emma.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_273",
+      "amount": 89.8,
+      "currency": "USD",
+      "date": "2025-10-27T04:16:06Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_210",
+      "customer": {
+        "name": "Alexander Taylor",
+        "email": "alexander.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_436",
+      "amount": 174.06,
+      "currency": "USD",
+      "date": "2025-10-27T02:54:13Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_839",
+      "customer": {
+        "name": "Emma Smith",
+        "email": "emma.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_343",
+      "amount": 284.58,
+      "currency": "USD",
+      "date": "2025-10-26T22:06:47Z",
+      "description": "Service payment",
+      "customer_id": "cust_402",
+      "customer": {
+        "name": "Mason Davis",
+        "email": "mason.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_092",
+      "amount": 21.94,
+      "currency": "USD",
+      "date": "2025-10-26T16:20:29Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_184",
+      "customer": {
+        "name": "Isabella Perez",
+        "email": "isabella.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_306",
+      "amount": 194.22,
+      "currency": "USD",
+      "date": "2025-10-26T11:52:32Z",
+      "description": "Refund",
+      "customer_id": "cust_386",
+      "customer": {
+        "name": "Isabella Thompson",
+        "email": "isabella.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_419",
+      "amount": 24.35,
+      "currency": "USD",
+      "date": "2025-10-26T10:19:42Z",
+      "description": "Refund",
+      "customer_id": "cust_946",
+      "customer": {
+        "name": "Ethan Wilson",
+        "email": "ethan.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_086",
+      "amount": 73.01,
+      "currency": "USD",
+      "date": "2025-10-26T06:44:47Z",
+      "description": "Online order",
+      "customer_id": "cust_615",
+      "customer": {
+        "name": "Michael Rodriguez",
+        "email": "michael.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_150",
+      "amount": 36.57,
+      "currency": "USD",
+      "date": "2025-10-26T04:15:57Z",
+      "description": "Online order",
+      "customer_id": "cust_357",
+      "customer": {
+        "name": "Lucas Perez",
+        "email": "lucas.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_267",
+      "amount": 69.42,
+      "currency": "USD",
+      "date": "2025-10-25T23:37:24Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_245",
+      "customer": {
+        "name": "Noah Thompson",
+        "email": "noah.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_488",
+      "amount": 186.77,
+      "currency": "USD",
+      "date": "2025-10-25T21:57:00Z",
+      "description": "Service payment",
+      "customer_id": "cust_203",
+      "customer": {
+        "name": "Evelyn Hernandez",
+        "email": "evelyn.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_353",
+      "amount": 99.98,
+      "currency": "USD",
+      "date": "2025-10-25T09:18:17Z",
+      "description": "Online order",
+      "customer_id": "cust_794",
+      "customer": {
+        "name": "Sophia Taylor",
+        "email": "sophia.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_119",
+      "amount": 298.91,
+      "currency": "USD",
+      "date": "2025-10-25T02:48:27Z",
+      "description": "Refund",
+      "customer_id": "cust_169",
+      "customer": {
+        "name": "Sophia Smith",
+        "email": "sophia.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_299",
+      "amount": 181.67,
+      "currency": "USD",
+      "date": "2025-10-25T01:52:53Z",
+      "description": "Online order",
+      "customer_id": "cust_198",
+      "customer": {
+        "name": "Henry Brown",
+        "email": "henry.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_328",
+      "amount": 138.91,
+      "currency": "USD",
+      "date": "2025-10-25T01:31:43Z",
+      "description": "Refund",
+      "customer_id": "cust_943",
+      "customer": {
+        "name": "Lucas Williams",
+        "email": "lucas.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_109",
+      "amount": 62.88,
+      "currency": "USD",
+      "date": "2025-10-25T01:08:25Z",
+      "description": "Service payment",
+      "customer_id": "cust_911",
+      "customer": {
+        "name": "Emma Jones",
+        "email": "emma.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_194",
+      "amount": 306.96,
+      "currency": "USD",
+      "date": "2025-10-24T21:48:07Z",
+      "description": "Refund",
+      "customer_id": "cust_611",
+      "customer": {
+        "name": "James Martinez",
+        "email": "james.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_307",
+      "amount": 307.71,
+      "currency": "USD",
+      "date": "2025-10-24T20:39:09Z",
+      "description": "Online order",
+      "customer_id": "cust_637",
+      "customer": {
+        "name": "Olivia Wilson",
+        "email": "olivia.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_124",
+      "amount": 267.44,
+      "currency": "USD",
+      "date": "2025-10-24T15:53:11Z",
+      "description": "Refund",
+      "customer_id": "cust_986",
+      "customer": {
+        "name": "Ella Garcia",
+        "email": "ella.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_176",
+      "amount": 171.36,
+      "currency": "USD",
+      "date": "2025-10-24T12:51:46Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_141",
+      "customer": {
+        "name": "Ava Miller",
+        "email": "ava.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_097",
+      "amount": 339.93,
+      "currency": "USD",
+      "date": "2025-10-24T00:10:06Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_116",
+      "customer": {
+        "name": "Ella Hernandez",
+        "email": "ella.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_190",
+      "amount": 204.94,
+      "currency": "USD",
+      "date": "2025-10-23T23:44:36Z",
+      "description": "Online order",
+      "customer_id": "cust_547",
+      "customer": {
+        "name": "Olivia Jones",
+        "email": "olivia.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_278",
+      "amount": 70.84,
+      "currency": "USD",
+      "date": "2025-10-23T17:17:14Z",
+      "description": "Online order",
+      "customer_id": "cust_605",
+      "customer": {
+        "name": "Liam Thompson",
+        "email": "liam.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_171",
+      "amount": 226.38,
+      "currency": "USD",
+      "date": "2025-10-23T09:15:00Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_436",
+      "customer": {
+        "name": "Isabella Miller",
+        "email": "isabella.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_387",
+      "amount": 168.57,
+      "currency": "USD",
+      "date": "2025-10-23T06:56:55Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_106",
+      "customer": {
+        "name": "Evelyn Wilson",
+        "email": "evelyn.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_032",
+      "amount": 238.4,
+      "currency": "USD",
+      "date": "2025-10-23T05:59:48Z",
+      "description": "Service payment",
+      "customer_id": "cust_633",
+      "customer": {
+        "name": "Elijah Johnson",
+        "email": "elijah.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_250",
+      "amount": 289.04,
+      "currency": "USD",
+      "date": "2025-10-23T04:44:12Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_670",
+      "customer": {
+        "name": "Sophia Smith",
+        "email": "sophia.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_082",
+      "amount": 145.04,
+      "currency": "USD",
+      "date": "2025-10-23T04:43:27Z",
+      "description": "Service payment",
+      "customer_id": "cust_878",
+      "customer": {
+        "name": "Abigail Martin",
+        "email": "abigail.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_108",
+      "amount": 68.76,
+      "currency": "USD",
+      "date": "2025-10-23T04:42:29Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_816",
+      "customer": {
+        "name": "Mia Moore",
+        "email": "mia.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_253",
+      "amount": 192.58,
+      "currency": "USD",
+      "date": "2025-10-23T04:19:37Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_476",
+      "customer": {
+        "name": "Liam Johnson",
+        "email": "liam.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_348",
+      "amount": 128.57,
+      "currency": "USD",
+      "date": "2025-10-23T03:45:00Z",
+      "description": "Online order",
+      "customer_id": "cust_562",
+      "customer": {
+        "name": "Liam Wilson",
+        "email": "liam.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_286",
+      "amount": 101.45,
+      "currency": "USD",
+      "date": "2025-10-23T00:37:25Z",
+      "description": "Online order",
+      "customer_id": "cust_950",
+      "customer": {
+        "name": "Amelia Johnson",
+        "email": "amelia.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_195",
+      "amount": 345.13,
+      "currency": "USD",
+      "date": "2025-10-22T21:15:45Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_979",
+      "customer": {
+        "name": "Amelia Hernandez",
+        "email": "amelia.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_117",
+      "amount": 247.06,
+      "currency": "USD",
+      "date": "2025-10-22T14:49:36Z",
+      "description": "Service payment",
+      "customer_id": "cust_775",
+      "customer": {
+        "name": "Benjamin Lopez",
+        "email": "benjamin.lopez@example.com"
+      }
+    },
+    {
+      "id": "txn_491",
+      "amount": 168.97,
+      "currency": "USD",
+      "date": "2025-10-22T12:17:43Z",
+      "description": "Refund",
+      "customer_id": "cust_777",
+      "customer": {
+        "name": "Charlotte Thompson",
+        "email": "charlotte.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_395",
+      "amount": 275.91,
+      "currency": "USD",
+      "date": "2025-10-22T06:51:03Z",
+      "description": "Refund",
+      "customer_id": "cust_728",
+      "customer": {
+        "name": "Elijah Brown",
+        "email": "elijah.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_384",
+      "amount": 58.05,
+      "currency": "USD",
+      "date": "2025-10-22T04:48:36Z",
+      "description": "Refund",
+      "customer_id": "cust_891",
+      "customer": {
+        "name": "Emma Rodriguez",
+        "email": "emma.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_154",
+      "amount": 174.92,
+      "currency": "USD",
+      "date": "2025-10-21T16:51:02Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_661",
+      "customer": {
+        "name": "Ella Garcia",
+        "email": "ella.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_479",
+      "amount": 158.03,
+      "currency": "USD",
+      "date": "2025-10-21T15:08:46Z",
+      "description": "Online order",
+      "customer_id": "cust_782",
+      "customer": {
+        "name": "Amelia Moore",
+        "email": "amelia.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_202",
+      "amount": 253.96,
+      "currency": "USD",
+      "date": "2025-10-21T11:19:23Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_714",
+      "customer": {
+        "name": "Emma Jackson",
+        "email": "emma.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_400",
+      "amount": 98.13,
+      "currency": "USD",
+      "date": "2025-10-21T02:29:37Z",
+      "description": "Refund",
+      "customer_id": "cust_831",
+      "customer": {
+        "name": "Elijah Martinez",
+        "email": "elijah.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_262",
+      "amount": 174.33,
+      "currency": "USD",
+      "date": "2025-10-20T20:07:10Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_314",
+      "customer": {
+        "name": "Ava Jones",
+        "email": "ava.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_234",
+      "amount": 338.5,
+      "currency": "USD",
+      "date": "2025-10-20T16:01:12Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_361",
+      "customer": {
+        "name": "Amelia Thompson",
+        "email": "amelia.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_266",
+      "amount": 333.75,
+      "currency": "USD",
+      "date": "2025-10-20T01:11:39Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_643",
+      "customer": {
+        "name": "Ella Moore",
+        "email": "ella.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_324",
+      "amount": 257.59,
+      "currency": "USD",
+      "date": "2025-10-19T23:03:55Z",
+      "description": "Refund",
+      "customer_id": "cust_445",
+      "customer": {
+        "name": "Michael Jackson",
+        "email": "michael.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_022",
+      "amount": 225.04,
+      "currency": "USD",
+      "date": "2025-10-19T16:08:16Z",
+      "description": "Online order",
+      "customer_id": "cust_312",
+      "customer": {
+        "name": "Henry Davis",
+        "email": "henry.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_450",
+      "amount": 94.28,
+      "currency": "USD",
+      "date": "2025-10-19T14:52:32Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_787",
+      "customer": {
+        "name": "Isabella Smith",
+        "email": "isabella.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_184",
+      "amount": 27.4,
+      "currency": "USD",
+      "date": "2025-10-19T08:06:42Z",
+      "description": "Service payment",
+      "customer_id": "cust_740",
+      "customer": {
+        "name": "Olivia Jackson",
+        "email": "olivia.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_141",
+      "amount": 328.0,
+      "currency": "USD",
+      "date": "2025-10-19T07:17:36Z",
+      "description": "Refund",
+      "customer_id": "cust_752",
+      "customer": {
+        "name": "Benjamin Jones",
+        "email": "benjamin.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_354",
+      "amount": 52.84,
+      "currency": "USD",
+      "date": "2025-10-19T02:34:18Z",
+      "description": "Refund",
+      "customer_id": "cust_557",
+      "customer": {
+        "name": "Isabella Lee",
+        "email": "isabella.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_329",
+      "amount": 138.21,
+      "currency": "USD",
+      "date": "2025-10-19T00:59:46Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_824",
+      "customer": {
+        "name": "Noah Wilson",
+        "email": "noah.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_437",
+      "amount": 221.95,
+      "currency": "USD",
+      "date": "2025-10-18T17:20:15Z",
+      "description": "Service payment",
+      "customer_id": "cust_627",
+      "customer": {
+        "name": "Lucas Thompson",
+        "email": "lucas.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_148",
+      "amount": 90.07,
+      "currency": "USD",
+      "date": "2025-10-18T09:53:31Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_191",
+      "customer": {
+        "name": "Ella Thomas",
+        "email": "ella.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_486",
+      "amount": 279.78,
+      "currency": "USD",
+      "date": "2025-10-18T09:34:10Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_646",
+      "customer": {
+        "name": "Michael Moore",
+        "email": "michael.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_042",
+      "amount": 347.49,
+      "currency": "USD",
+      "date": "2025-10-18T00:32:42Z",
+      "description": "Service payment",
+      "customer_id": "cust_960",
+      "customer": {
+        "name": "Michael Thompson",
+        "email": "michael.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_173",
+      "amount": 266.24,
+      "currency": "USD",
+      "date": "2025-10-17T20:21:34Z",
+      "description": "Service payment",
+      "customer_id": "cust_569",
+      "customer": {
+        "name": "Ella Smith",
+        "email": "ella.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_057",
+      "amount": 310.86,
+      "currency": "USD",
+      "date": "2025-10-17T18:34:52Z",
+      "description": "Refund",
+      "customer_id": "cust_460",
+      "customer": {
+        "name": "James Jones",
+        "email": "james.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_001",
+      "amount": 202.71,
+      "currency": "USD",
+      "date": "2025-10-17T08:25:15Z",
+      "description": "Refund",
+      "customer_id": "cust_133",
+      "customer": {
+        "name": "Emma Davis",
+        "email": "emma.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_121",
+      "amount": 319.52,
+      "currency": "USD",
+      "date": "2025-10-17T07:19:49Z",
+      "description": "Online order",
+      "customer_id": "cust_958",
+      "customer": {
+        "name": "Evelyn Thompson",
+        "email": "evelyn.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_385",
+      "amount": 61.64,
+      "currency": "USD",
+      "date": "2025-10-16T23:11:37Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_361",
+      "customer": {
+        "name": "Ava Jones",
+        "email": "ava.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_314",
+      "amount": 68.61,
+      "currency": "USD",
+      "date": "2025-10-16T19:06:26Z",
+      "description": "Online order",
+      "customer_id": "cust_103",
+      "customer": {
+        "name": "Evelyn Martin",
+        "email": "evelyn.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_035",
+      "amount": 128.84,
+      "currency": "USD",
+      "date": "2025-10-16T17:43:28Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_672",
+      "customer": {
+        "name": "Charlotte Miller",
+        "email": "charlotte.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_448",
+      "amount": 224.3,
+      "currency": "USD",
+      "date": "2025-10-16T10:16:16Z",
+      "description": "Refund",
+      "customer_id": "cust_457",
+      "customer": {
+        "name": "Henry Jackson",
+        "email": "henry.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_453",
+      "amount": 324.84,
+      "currency": "USD",
+      "date": "2025-10-16T05:51:38Z",
+      "description": "Online order",
+      "customer_id": "cust_486",
+      "customer": {
+        "name": "Ella Perez",
+        "email": "ella.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_475",
+      "amount": 269.49,
+      "currency": "USD",
+      "date": "2025-10-15T22:59:33Z",
+      "description": "Service payment",
+      "customer_id": "cust_282",
+      "customer": {
+        "name": "Olivia Jackson",
+        "email": "olivia.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_104",
+      "amount": 90.2,
+      "currency": "USD",
+      "date": "2025-10-15T20:01:21Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_594",
+      "customer": {
+        "name": "John Rodriguez",
+        "email": "john.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_245",
+      "amount": 124.73,
+      "currency": "USD",
+      "date": "2025-10-15T13:15:23Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_729",
+      "customer": {
+        "name": "Ella Jackson",
+        "email": "ella.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_368",
+      "amount": 142.77,
+      "currency": "USD",
+      "date": "2025-10-15T12:27:02Z",
+      "description": "Online order",
+      "customer_id": "cust_730",
+      "customer": {
+        "name": "Sophia Jackson",
+        "email": "sophia.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_251",
+      "amount": 175.86,
+      "currency": "USD",
+      "date": "2025-10-15T10:22:56Z",
+      "description": "Online order",
+      "customer_id": "cust_766",
+      "customer": {
+        "name": "Lucas Miller",
+        "email": "lucas.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_205",
+      "amount": 214.91,
+      "currency": "USD",
+      "date": "2025-10-15T04:25:39Z",
+      "description": "Online order",
+      "customer_id": "cust_768",
+      "customer": {
+        "name": "Abigail Williams",
+        "email": "abigail.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_143",
+      "amount": 137.97,
+      "currency": "USD",
+      "date": "2025-10-15T00:17:34Z",
+      "description": "Service payment",
+      "customer_id": "cust_448",
+      "customer": {
+        "name": "Charlotte Hernandez",
+        "email": "charlotte.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_062",
+      "amount": 223.94,
+      "currency": "USD",
+      "date": "2025-10-14T22:32:59Z",
+      "description": "Service payment",
+      "customer_id": "cust_551",
+      "customer": {
+        "name": "Emma Lee",
+        "email": "emma.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_496",
+      "amount": 271.62,
+      "currency": "USD",
+      "date": "2025-10-14T18:49:06Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_310",
+      "customer": {
+        "name": "Isabella Martin",
+        "email": "isabella.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_445",
+      "amount": 72.33,
+      "currency": "USD",
+      "date": "2025-10-14T17:17:34Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_786",
+      "customer": {
+        "name": "Harper Anderson",
+        "email": "harper.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_029",
+      "amount": 21.28,
+      "currency": "USD",
+      "date": "2025-10-14T14:46:26Z",
+      "description": "Service payment",
+      "customer_id": "cust_912",
+      "customer": {
+        "name": "Olivia Smith",
+        "email": "olivia.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_418",
+      "amount": 294.18,
+      "currency": "USD",
+      "date": "2025-10-14T12:27:54Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_527",
+      "customer": {
+        "name": "James Moore",
+        "email": "james.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_405",
+      "amount": 188.08,
+      "currency": "USD",
+      "date": "2025-10-14T03:28:03Z",
+      "description": "Refund",
+      "customer_id": "cust_843",
+      "customer": {
+        "name": "Noah Brown",
+        "email": "noah.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_382",
+      "amount": 46.19,
+      "currency": "USD",
+      "date": "2025-10-13T23:19:48Z",
+      "description": "Refund",
+      "customer_id": "cust_976",
+      "customer": {
+        "name": "Alexander Thomas",
+        "email": "alexander.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_186",
+      "amount": 75.51,
+      "currency": "USD",
+      "date": "2025-10-13T20:48:37Z",
+      "description": "Online order",
+      "customer_id": "cust_842",
+      "customer": {
+        "name": "Elijah Rodriguez",
+        "email": "elijah.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_101",
+      "amount": 125.73,
+      "currency": "USD",
+      "date": "2025-10-13T16:32:23Z",
+      "description": "Refund",
+      "customer_id": "cust_716",
+      "customer": {
+        "name": "Amelia Thompson",
+        "email": "amelia.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_289",
+      "amount": 250.77,
+      "currency": "USD",
+      "date": "2025-10-13T13:29:45Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_318",
+      "customer": {
+        "name": "Mason Lee",
+        "email": "mason.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_465",
+      "amount": 289.89,
+      "currency": "USD",
+      "date": "2025-10-13T10:15:30Z",
+      "description": "Online order",
+      "customer_id": "cust_538",
+      "customer": {
+        "name": "Liam Davis",
+        "email": "liam.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_093",
+      "amount": 185.16,
+      "currency": "USD",
+      "date": "2025-10-13T00:05:01Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_197",
+      "customer": {
+        "name": "Harper Brown",
+        "email": "harper.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_249",
+      "amount": 284.35,
+      "currency": "USD",
+      "date": "2025-10-12T20:17:36Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_735",
+      "customer": {
+        "name": "Noah Perez",
+        "email": "noah.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_098",
+      "amount": 241.45,
+      "currency": "USD",
+      "date": "2025-10-12T19:11:48Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_608",
+      "customer": {
+        "name": "Elijah Thomas",
+        "email": "elijah.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_281",
+      "amount": 129.09,
+      "currency": "USD",
+      "date": "2025-10-12T13:45:00Z",
+      "description": "Refund",
+      "customer_id": "cust_513",
+      "customer": {
+        "name": "Michael Jackson",
+        "email": "michael.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_467",
+      "amount": 335.03,
+      "currency": "USD",
+      "date": "2025-10-12T12:33:51Z",
+      "description": "Refund",
+      "customer_id": "cust_944",
+      "customer": {
+        "name": "Abigail Taylor",
+        "email": "abigail.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_305",
+      "amount": 256.42,
+      "currency": "USD",
+      "date": "2025-10-12T11:55:57Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_135",
+      "customer": {
+        "name": "Noah Rodriguez",
+        "email": "noah.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_493",
+      "amount": 144.6,
+      "currency": "USD",
+      "date": "2025-10-12T10:57:59Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_970",
+      "customer": {
+        "name": "Henry Lopez",
+        "email": "henry.lopez@example.com"
+      }
+    },
+    {
+      "id": "txn_301",
+      "amount": 254.53,
+      "currency": "USD",
+      "date": "2025-10-11T20:10:36Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_917",
+      "customer": {
+        "name": "Benjamin Martin",
+        "email": "benjamin.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_067",
+      "amount": 344.01,
+      "currency": "USD",
+      "date": "2025-10-11T18:25:13Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_526",
+      "customer": {
+        "name": "Abigail Jones",
+        "email": "abigail.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_371",
+      "amount": 108.28,
+      "currency": "USD",
+      "date": "2025-10-11T18:22:53Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_150",
+      "customer": {
+        "name": "James Davis",
+        "email": "james.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_224",
+      "amount": 142.67,
+      "currency": "USD",
+      "date": "2025-10-11T11:30:58Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_845",
+      "customer": {
+        "name": "Mason Rodriguez",
+        "email": "mason.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_452",
+      "amount": 104.06,
+      "currency": "USD",
+      "date": "2025-10-11T01:34:24Z",
+      "description": "Online order",
+      "customer_id": "cust_726",
+      "customer": {
+        "name": "James Thompson",
+        "email": "james.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_318",
+      "amount": 211.95,
+      "currency": "USD",
+      "date": "2025-10-11T01:01:27Z",
+      "description": "Refund",
+      "customer_id": "cust_645",
+      "customer": {
+        "name": "Amelia Taylor",
+        "email": "amelia.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_302",
+      "amount": 319.93,
+      "currency": "USD",
+      "date": "2025-10-10T19:23:52Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_612",
+      "customer": {
+        "name": "Olivia Thomas",
+        "email": "olivia.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_095",
+      "amount": 330.55,
+      "currency": "USD",
+      "date": "2025-10-10T15:26:35Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_226",
+      "customer": {
+        "name": "Alexander Martin",
+        "email": "alexander.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_325",
+      "amount": 63.49,
+      "currency": "USD",
+      "date": "2025-10-10T10:38:35Z",
+      "description": "Service payment",
+      "customer_id": "cust_184",
+      "customer": {
+        "name": "Amelia Thompson",
+        "email": "amelia.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_363",
+      "amount": 281.83,
+      "currency": "USD",
+      "date": "2025-10-10T09:28:48Z",
+      "description": "Refund",
+      "customer_id": "cust_496",
+      "customer": {
+        "name": "Isabella Thomas",
+        "email": "isabella.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_369",
+      "amount": 59.48,
+      "currency": "USD",
+      "date": "2025-10-09T16:44:31Z",
+      "description": "Service payment",
+      "customer_id": "cust_263",
+      "customer": {
+        "name": "Henry Brown",
+        "email": "henry.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_386",
+      "amount": 237.79,
+      "currency": "USD",
+      "date": "2025-10-09T13:18:22Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_878",
+      "customer": {
+        "name": "Elijah Brown",
+        "email": "elijah.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_434",
+      "amount": 312.96,
+      "currency": "USD",
+      "date": "2025-10-09T10:19:19Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_495",
+      "customer": {
+        "name": "Ella Lee",
+        "email": "ella.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_139",
+      "amount": 30.18,
+      "currency": "USD",
+      "date": "2025-10-09T09:25:05Z",
+      "description": "Refund",
+      "customer_id": "cust_655",
+      "customer": {
+        "name": "Charlotte Martinez",
+        "email": "charlotte.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_257",
+      "amount": 83.31,
+      "currency": "USD",
+      "date": "2025-10-09T08:38:36Z",
+      "description": "Online order",
+      "customer_id": "cust_798",
+      "customer": {
+        "name": "Henry Hernandez",
+        "email": "henry.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_136",
+      "amount": 203.57,
+      "currency": "USD",
+      "date": "2025-10-09T07:10:16Z",
+      "description": "Online order",
+      "customer_id": "cust_503",
+      "customer": {
+        "name": "Mason Garcia",
+        "email": "mason.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_457",
+      "amount": 217.49,
+      "currency": "USD",
+      "date": "2025-10-09T04:23:59Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_688",
+      "customer": {
+        "name": "Amelia Johnson",
+        "email": "amelia.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_161",
+      "amount": 220.64,
+      "currency": "USD",
+      "date": "2025-10-09T04:04:09Z",
+      "description": "Service payment",
+      "customer_id": "cust_558",
+      "customer": {
+        "name": "Mia Lee",
+        "email": "mia.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_018",
+      "amount": 49.59,
+      "currency": "USD",
+      "date": "2025-10-09T00:00:47Z",
+      "description": "Online order",
+      "customer_id": "cust_357",
+      "customer": {
+        "name": "Elijah Rodriguez",
+        "email": "elijah.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_383",
+      "amount": 260.97,
+      "currency": "USD",
+      "date": "2025-10-08T18:05:38Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_340",
+      "customer": {
+        "name": "Harper Rodriguez",
+        "email": "harper.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_485",
+      "amount": 276.62,
+      "currency": "USD",
+      "date": "2025-10-08T17:21:10Z",
+      "description": "Online order",
+      "customer_id": "cust_812",
+      "customer": {
+        "name": "Alexander Brown",
+        "email": "alexander.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_080",
+      "amount": 271.99,
+      "currency": "USD",
+      "date": "2025-10-08T13:35:14Z",
+      "description": "Online order",
+      "customer_id": "cust_418",
+      "customer": {
+        "name": "Elijah Miller",
+        "email": "elijah.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_079",
+      "amount": 189.0,
+      "currency": "USD",
+      "date": "2025-10-08T12:21:24Z",
+      "description": "Refund",
+      "customer_id": "cust_586",
+      "customer": {
+        "name": "Michael Rodriguez",
+        "email": "michael.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_103",
+      "amount": 324.14,
+      "currency": "USD",
+      "date": "2025-10-08T11:40:52Z",
+      "description": "Refund",
+      "customer_id": "cust_575",
+      "customer": {
+        "name": "Sophia Rodriguez",
+        "email": "sophia.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_120",
+      "amount": 228.31,
+      "currency": "USD",
+      "date": "2025-10-08T07:12:10Z",
+      "description": "Service payment",
+      "customer_id": "cust_806",
+      "customer": {
+        "name": "Abigail Jackson",
+        "email": "abigail.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_425",
+      "amount": 25.25,
+      "currency": "USD",
+      "date": "2025-10-07T23:03:02Z",
+      "description": "Service payment",
+      "customer_id": "cust_917",
+      "customer": {
+        "name": "Ethan Thomas",
+        "email": "ethan.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_489",
+      "amount": 184.57,
+      "currency": "USD",
+      "date": "2025-10-07T16:19:07Z",
+      "description": "Refund",
+      "customer_id": "cust_587",
+      "customer": {
+        "name": "Ethan Martin",
+        "email": "ethan.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_284",
+      "amount": 274.18,
+      "currency": "USD",
+      "date": "2025-10-07T08:49:43Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_337",
+      "customer": {
+        "name": "Mia Johnson",
+        "email": "mia.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_089",
+      "amount": 229.25,
+      "currency": "USD",
+      "date": "2025-10-06T17:17:18Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_158",
+      "customer": {
+        "name": "Lucas Martin",
+        "email": "lucas.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_159",
+      "amount": 314.84,
+      "currency": "USD",
+      "date": "2025-10-06T11:35:57Z",
+      "description": "Service payment",
+      "customer_id": "cust_903",
+      "customer": {
+        "name": "Mason Martinez",
+        "email": "mason.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_048",
+      "amount": 171.53,
+      "currency": "USD",
+      "date": "2025-10-06T08:57:10Z",
+      "description": "Refund",
+      "customer_id": "cust_682",
+      "customer": {
+        "name": "Emma Thomas",
+        "email": "emma.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_012",
+      "amount": 46.91,
+      "currency": "USD",
+      "date": "2025-10-06T08:35:03Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_900",
+      "customer": {
+        "name": "Evelyn Anderson",
+        "email": "evelyn.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_297",
+      "amount": 59.75,
+      "currency": "USD",
+      "date": "2025-10-06T04:08:16Z",
+      "description": "Online order",
+      "customer_id": "cust_585",
+      "customer": {
+        "name": "Harper Smith",
+        "email": "harper.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_458",
+      "amount": 287.56,
+      "currency": "USD",
+      "date": "2025-10-06T01:08:30Z",
+      "description": "Online order",
+      "customer_id": "cust_924",
+      "customer": {
+        "name": "Ethan Lee",
+        "email": "ethan.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_423",
+      "amount": 275.14,
+      "currency": "USD",
+      "date": "2025-10-05T19:41:11Z",
+      "description": "Online order",
+      "customer_id": "cust_992",
+      "customer": {
+        "name": "Liam Jackson",
+        "email": "liam.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_222",
+      "amount": 279.26,
+      "currency": "USD",
+      "date": "2025-10-05T13:02:17Z",
+      "description": "Service payment",
+      "customer_id": "cust_171",
+      "customer": {
+        "name": "Elijah Lopez",
+        "email": "elijah.lopez@example.com"
+      }
+    },
+    {
+      "id": "txn_037",
+      "amount": 87.04,
+      "currency": "USD",
+      "date": "2025-10-05T12:14:14Z",
+      "description": "Service payment",
+      "customer_id": "cust_316",
+      "customer": {
+        "name": "Amelia Thompson",
+        "email": "amelia.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_410",
+      "amount": 147.99,
+      "currency": "USD",
+      "date": "2025-10-05T11:26:55Z",
+      "description": "Online order",
+      "customer_id": "cust_633",
+      "customer": {
+        "name": "Mia Jackson",
+        "email": "mia.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_087",
+      "amount": 163.95,
+      "currency": "USD",
+      "date": "2025-10-05T10:51:50Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_547",
+      "customer": {
+        "name": "Benjamin Thomas",
+        "email": "benjamin.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_464",
+      "amount": 238.6,
+      "currency": "USD",
+      "date": "2025-10-05T00:21:38Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_979",
+      "customer": {
+        "name": "Mason Smith",
+        "email": "mason.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_163",
+      "amount": 174.83,
+      "currency": "USD",
+      "date": "2025-10-04T20:56:04Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_203",
+      "customer": {
+        "name": "Abigail Jackson",
+        "email": "abigail.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_375",
+      "amount": 134.94,
+      "currency": "USD",
+      "date": "2025-10-04T18:06:28Z",
+      "description": "Online order",
+      "customer_id": "cust_752",
+      "customer": {
+        "name": "Michael Jones",
+        "email": "michael.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_063",
+      "amount": 284.69,
+      "currency": "USD",
+      "date": "2025-10-04T18:03:45Z",
+      "description": "Refund",
+      "customer_id": "cust_140",
+      "customer": {
+        "name": "Henry Jackson",
+        "email": "henry.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_174",
+      "amount": 172.43,
+      "currency": "USD",
+      "date": "2025-10-04T12:06:29Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_862",
+      "customer": {
+        "name": "Olivia Martinez",
+        "email": "olivia.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_388",
+      "amount": 321.09,
+      "currency": "USD",
+      "date": "2025-10-04T08:36:51Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_914",
+      "customer": {
+        "name": "Lucas Martin",
+        "email": "lucas.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_355",
+      "amount": 321.73,
+      "currency": "USD",
+      "date": "2025-10-04T07:09:04Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_955",
+      "customer": {
+        "name": "Harper Williams",
+        "email": "harper.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_277",
+      "amount": 108.77,
+      "currency": "USD",
+      "date": "2025-10-04T01:57:28Z",
+      "description": "Refund",
+      "customer_id": "cust_220",
+      "customer": {
+        "name": "Abigail Anderson",
+        "email": "abigail.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_026",
+      "amount": 97.05,
+      "currency": "USD",
+      "date": "2025-10-03T23:40:06Z",
+      "description": "Refund",
+      "customer_id": "cust_988",
+      "customer": {
+        "name": "Mia Martin",
+        "email": "mia.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_175",
+      "amount": 194.21,
+      "currency": "USD",
+      "date": "2025-10-03T06:27:43Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_656",
+      "customer": {
+        "name": "Abigail Johnson",
+        "email": "abigail.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_263",
+      "amount": 326.29,
+      "currency": "USD",
+      "date": "2025-10-03T02:19:52Z",
+      "description": "Online order",
+      "customer_id": "cust_827",
+      "customer": {
+        "name": "Benjamin Anderson",
+        "email": "benjamin.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_229",
+      "amount": 203.75,
+      "currency": "USD",
+      "date": "2025-10-03T01:40:07Z",
+      "description": "Refund",
+      "customer_id": "cust_410",
+      "customer": {
+        "name": "Charlotte Lopez",
+        "email": "charlotte.lopez@example.com"
+      }
+    },
+    {
+      "id": "txn_311",
+      "amount": 86.81,
+      "currency": "USD",
+      "date": "2025-10-02T20:12:46Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_161",
+      "customer": {
+        "name": "Sophia Wilson",
+        "email": "sophia.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_021",
+      "amount": 34.79,
+      "currency": "USD",
+      "date": "2025-10-02T10:43:33Z",
+      "description": "Refund",
+      "customer_id": "cust_284",
+      "customer": {
+        "name": "Abigail Lee",
+        "email": "abigail.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_320",
+      "amount": 137.26,
+      "currency": "USD",
+      "date": "2025-10-02T10:08:07Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_106",
+      "customer": {
+        "name": "Charlotte Thomas",
+        "email": "charlotte.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_370",
+      "amount": 191.16,
+      "currency": "USD",
+      "date": "2025-10-01T16:05:05Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_673",
+      "customer": {
+        "name": "Charlotte Perez",
+        "email": "charlotte.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_055",
+      "amount": 119.03,
+      "currency": "USD",
+      "date": "2025-10-01T11:06:45Z",
+      "description": "Online order",
+      "customer_id": "cust_524",
+      "customer": {
+        "name": "Michael Rodriguez",
+        "email": "michael.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_182",
+      "amount": 323.78,
+      "currency": "USD",
+      "date": "2025-10-01T08:08:18Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_569",
+      "customer": {
+        "name": "James Rodriguez",
+        "email": "james.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_031",
+      "amount": 218.83,
+      "currency": "USD",
+      "date": "2025-10-01T02:35:19Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_305",
+      "customer": {
+        "name": "Mason Wilson",
+        "email": "mason.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_192",
+      "amount": 170.32,
+      "currency": "USD",
+      "date": "2025-09-28T17:01:45Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_355",
+      "customer": {
+        "name": "Henry Davis",
+        "email": "henry.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_470",
+      "amount": 262.48,
+      "currency": "USD",
+      "date": "2025-09-28T09:55:38Z",
+      "description": "Service payment",
+      "customer_id": "cust_848",
+      "customer": {
+        "name": "Ava Anderson",
+        "email": "ava.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_237",
+      "amount": 242.2,
+      "currency": "USD",
+      "date": "2025-09-28T02:13:15Z",
+      "description": "Service payment",
+      "customer_id": "cust_895",
+      "customer": {
+        "name": "Harper Miller",
+        "email": "harper.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_198",
+      "amount": 20.51,
+      "currency": "USD",
+      "date": "2025-09-27T22:09:04Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_644",
+      "customer": {
+        "name": "Abigail Moore",
+        "email": "abigail.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_235",
+      "amount": 80.77,
+      "currency": "USD",
+      "date": "2025-09-27T21:50:01Z",
+      "description": "Refund",
+      "customer_id": "cust_899",
+      "customer": {
+        "name": "Ethan Jackson",
+        "email": "ethan.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_125",
+      "amount": 28.36,
+      "currency": "USD",
+      "date": "2025-09-27T20:28:34Z",
+      "description": "Refund",
+      "customer_id": "cust_774",
+      "customer": {
+        "name": "Henry Rodriguez",
+        "email": "henry.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_084",
+      "amount": 321.86,
+      "currency": "USD",
+      "date": "2025-09-27T15:56:16Z",
+      "description": "Service payment",
+      "customer_id": "cust_541",
+      "customer": {
+        "name": "Lucas Johnson",
+        "email": "lucas.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_326",
+      "amount": 137.49,
+      "currency": "USD",
+      "date": "2025-09-27T09:28:25Z",
+      "description": "Service payment",
+      "customer_id": "cust_528",
+      "customer": {
+        "name": "Olivia Johnson",
+        "email": "olivia.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_046",
+      "amount": 147.1,
+      "currency": "USD",
+      "date": "2025-09-27T08:21:19Z",
+      "description": "Service payment",
+      "customer_id": "cust_448",
+      "customer": {
+        "name": "Henry Jones",
+        "email": "henry.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_168",
+      "amount": 162.68,
+      "currency": "USD",
+      "date": "2025-09-27T02:30:06Z",
+      "description": "Service payment",
+      "customer_id": "cust_320",
+      "customer": {
+        "name": "Evelyn Wilson",
+        "email": "evelyn.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_494",
+      "amount": 121.27,
+      "currency": "USD",
+      "date": "2025-09-26T20:51:23Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_427",
+      "customer": {
+        "name": "Henry Perez",
+        "email": "henry.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_414",
+      "amount": 129.07,
+      "currency": "USD",
+      "date": "2025-09-26T14:23:11Z",
+      "description": "Refund",
+      "customer_id": "cust_300",
+      "customer": {
+        "name": "James Jackson",
+        "email": "james.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_030",
+      "amount": 337.32,
+      "currency": "USD",
+      "date": "2025-09-26T11:32:38Z",
+      "description": "Service payment",
+      "customer_id": "cust_391",
+      "customer": {
+        "name": "Alexander Jackson",
+        "email": "alexander.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_451",
+      "amount": 289.61,
+      "currency": "USD",
+      "date": "2025-09-26T03:29:17Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_579",
+      "customer": {
+        "name": "Ella Jackson",
+        "email": "ella.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_193",
+      "amount": 112.4,
+      "currency": "USD",
+      "date": "2025-09-25T21:44:49Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_823",
+      "customer": {
+        "name": "Harper Perez",
+        "email": "harper.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_408",
+      "amount": 57.56,
+      "currency": "USD",
+      "date": "2025-09-25T21:12:06Z",
+      "description": "Service payment",
+      "customer_id": "cust_173",
+      "customer": {
+        "name": "Abigail Brown",
+        "email": "abigail.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_459",
+      "amount": 48.13,
+      "currency": "USD",
+      "date": "2025-09-25T19:19:03Z",
+      "description": "Refund",
+      "customer_id": "cust_418",
+      "customer": {
+        "name": "Olivia Miller",
+        "email": "olivia.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_033",
+      "amount": 21.7,
+      "currency": "USD",
+      "date": "2025-09-25T16:06:19Z",
+      "description": "Refund",
+      "customer_id": "cust_760",
+      "customer": {
+        "name": "Isabella Garcia",
+        "email": "isabella.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_128",
+      "amount": 241.2,
+      "currency": "USD",
+      "date": "2025-09-25T08:32:17Z",
+      "description": "Service payment",
+      "customer_id": "cust_610",
+      "customer": {
+        "name": "Abigail Garcia",
+        "email": "abigail.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_078",
+      "amount": 155.66,
+      "currency": "USD",
+      "date": "2025-09-25T03:08:09Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_771",
+      "customer": {
+        "name": "Lucas Jackson",
+        "email": "lucas.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_468",
+      "amount": 110.34,
+      "currency": "USD",
+      "date": "2025-09-25T01:05:05Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_239",
+      "customer": {
+        "name": "Henry Brown",
+        "email": "henry.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_113",
+      "amount": 236.19,
+      "currency": "USD",
+      "date": "2025-09-24T22:27:23Z",
+      "description": "Service payment",
+      "customer_id": "cust_842",
+      "customer": {
+        "name": "Harper Wilson",
+        "email": "harper.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_420",
+      "amount": 302.24,
+      "currency": "USD",
+      "date": "2025-09-24T17:55:29Z",
+      "description": "Online order",
+      "customer_id": "cust_654",
+      "customer": {
+        "name": "John Jones",
+        "email": "john.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_296",
+      "amount": 77.05,
+      "currency": "USD",
+      "date": "2025-09-24T03:46:09Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_152",
+      "customer": {
+        "name": "Liam Thomas",
+        "email": "liam.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_061",
+      "amount": 150.25,
+      "currency": "USD",
+      "date": "2025-09-23T23:03:40Z",
+      "description": "Service payment",
+      "customer_id": "cust_928",
+      "customer": {
+        "name": "Michael Moore",
+        "email": "michael.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_137",
+      "amount": 259.07,
+      "currency": "USD",
+      "date": "2025-09-23T19:39:13Z",
+      "description": "Service payment",
+      "customer_id": "cust_660",
+      "customer": {
+        "name": "Olivia Thompson",
+        "email": "olivia.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_449",
+      "amount": 110.95,
+      "currency": "USD",
+      "date": "2025-09-23T10:31:54Z",
+      "description": "Online order",
+      "customer_id": "cust_299",
+      "customer": {
+        "name": "Ethan Hernandez",
+        "email": "ethan.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_232",
+      "amount": 287.54,
+      "currency": "USD",
+      "date": "2025-09-23T09:20:58Z",
+      "description": "Service payment",
+      "customer_id": "cust_815",
+      "customer": {
+        "name": "Alexander Jackson",
+        "email": "alexander.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_036",
+      "amount": 306.13,
+      "currency": "USD",
+      "date": "2025-09-22T20:45:43Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_432",
+      "customer": {
+        "name": "Harper Wilson",
+        "email": "harper.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_047",
+      "amount": 109.28,
+      "currency": "USD",
+      "date": "2025-09-22T12:57:17Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_898",
+      "customer": {
+        "name": "Mason Davis",
+        "email": "mason.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_474",
+      "amount": 91.76,
+      "currency": "USD",
+      "date": "2025-09-22T09:38:22Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_575",
+      "customer": {
+        "name": "John Jones",
+        "email": "john.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_377",
+      "amount": 57.36,
+      "currency": "USD",
+      "date": "2025-09-22T09:16:57Z",
+      "description": "Refund",
+      "customer_id": "cust_530",
+      "customer": {
+        "name": "Isabella Jackson",
+        "email": "isabella.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_085",
+      "amount": 119.8,
+      "currency": "USD",
+      "date": "2025-09-22T06:45:31Z",
+      "description": "Refund",
+      "customer_id": "cust_548",
+      "customer": {
+        "name": "Emma Lee",
+        "email": "emma.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_068",
+      "amount": 315.57,
+      "currency": "USD",
+      "date": "2025-09-21T18:08:46Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_750",
+      "customer": {
+        "name": "Ethan Rodriguez",
+        "email": "ethan.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_308",
+      "amount": 240.17,
+      "currency": "USD",
+      "date": "2025-09-21T15:13:57Z",
+      "description": "Online order",
+      "customer_id": "cust_707",
+      "customer": {
+        "name": "Benjamin Thompson",
+        "email": "benjamin.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_147",
+      "amount": 99.43,
+      "currency": "USD",
+      "date": "2025-09-21T12:58:38Z",
+      "description": "Refund",
+      "customer_id": "cust_391",
+      "customer": {
+        "name": "Abigail Martin",
+        "email": "abigail.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_409",
+      "amount": 203.48,
+      "currency": "USD",
+      "date": "2025-09-20T19:55:57Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_900",
+      "customer": {
+        "name": "Michael Jackson",
+        "email": "michael.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_271",
+      "amount": 95.02,
+      "currency": "USD",
+      "date": "2025-09-20T19:37:01Z",
+      "description": "Refund",
+      "customer_id": "cust_695",
+      "customer": {
+        "name": "Ethan Anderson",
+        "email": "ethan.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_291",
+      "amount": 58.09,
+      "currency": "USD",
+      "date": "2025-09-20T19:09:19Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_667",
+      "customer": {
+        "name": "James Williams",
+        "email": "james.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_066",
+      "amount": 43.3,
+      "currency": "USD",
+      "date": "2025-09-20T16:52:48Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_416",
+      "customer": {
+        "name": "Liam Williams",
+        "email": "liam.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_009",
+      "amount": 293.12,
+      "currency": "USD",
+      "date": "2025-09-20T14:42:18Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_494",
+      "customer": {
+        "name": "Sophia Williams",
+        "email": "sophia.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_484",
+      "amount": 38.2,
+      "currency": "USD",
+      "date": "2025-09-20T06:26:49Z",
+      "description": "Service payment",
+      "customer_id": "cust_733",
+      "customer": {
+        "name": "Harper Martin",
+        "email": "harper.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_106",
+      "amount": 315.46,
+      "currency": "USD",
+      "date": "2025-09-20T06:13:36Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_692",
+      "customer": {
+        "name": "Elijah Jones",
+        "email": "elijah.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_427",
+      "amount": 160.43,
+      "currency": "USD",
+      "date": "2025-09-20T05:34:36Z",
+      "description": "Service payment",
+      "customer_id": "cust_722",
+      "customer": {
+        "name": "Benjamin Lee",
+        "email": "benjamin.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_165",
+      "amount": 99.34,
+      "currency": "USD",
+      "date": "2025-09-20T01:45:38Z",
+      "description": "Service payment",
+      "customer_id": "cust_546",
+      "customer": {
+        "name": "Emma Martin",
+        "email": "emma.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_155",
+      "amount": 213.99,
+      "currency": "USD",
+      "date": "2025-09-19T20:39:33Z",
+      "description": "Online order",
+      "customer_id": "cust_139",
+      "customer": {
+        "name": "Henry Johnson",
+        "email": "henry.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_256",
+      "amount": 142.63,
+      "currency": "USD",
+      "date": "2025-09-19T18:25:19Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_578",
+      "customer": {
+        "name": "Ella Perez",
+        "email": "ella.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_077",
+      "amount": 55.77,
+      "currency": "USD",
+      "date": "2025-09-19T13:56:22Z",
+      "description": "Online order",
+      "customer_id": "cust_962",
+      "customer": {
+        "name": "Elijah Jones",
+        "email": "elijah.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_412",
+      "amount": 246.92,
+      "currency": "USD",
+      "date": "2025-09-19T02:10:35Z",
+      "description": "Service payment",
+      "customer_id": "cust_731",
+      "customer": {
+        "name": "Ava Williams",
+        "email": "ava.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_446",
+      "amount": 308.46,
+      "currency": "USD",
+      "date": "2025-09-18T19:16:11Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_236",
+      "customer": {
+        "name": "Michael Taylor",
+        "email": "michael.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_261",
+      "amount": 266.68,
+      "currency": "USD",
+      "date": "2025-09-18T16:35:48Z",
+      "description": "Service payment",
+      "customer_id": "cust_405",
+      "customer": {
+        "name": "Abigail Thompson",
+        "email": "abigail.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_424",
+      "amount": 208.37,
+      "currency": "USD",
+      "date": "2025-09-18T14:46:38Z",
+      "description": "Online order",
+      "customer_id": "cust_172",
+      "customer": {
+        "name": "Amelia Moore",
+        "email": "amelia.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_133",
+      "amount": 326.95,
+      "currency": "USD",
+      "date": "2025-09-18T14:39:54Z",
+      "description": "Refund",
+      "customer_id": "cust_839",
+      "customer": {
+        "name": "Benjamin Garcia",
+        "email": "benjamin.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_283",
+      "amount": 277.52,
+      "currency": "USD",
+      "date": "2025-09-18T12:13:26Z",
+      "description": "Service payment",
+      "customer_id": "cust_207",
+      "customer": {
+        "name": "Noah Martinez",
+        "email": "noah.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_002",
+      "amount": 295.47,
+      "currency": "USD",
+      "date": "2025-09-18T08:53:40Z",
+      "description": "Refund",
+      "customer_id": "cust_252",
+      "customer": {
+        "name": "Ava Rodriguez",
+        "email": "ava.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_290",
+      "amount": 334.57,
+      "currency": "USD",
+      "date": "2025-09-17T23:44:17Z",
+      "description": "Refund",
+      "customer_id": "cust_583",
+      "customer": {
+        "name": "Harper Hernandez",
+        "email": "harper.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_006",
+      "amount": 289.92,
+      "currency": "USD",
+      "date": "2025-09-17T22:23:59Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_742",
+      "customer": {
+        "name": "Harper Martin",
+        "email": "harper.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_265",
+      "amount": 233.28,
+      "currency": "USD",
+      "date": "2025-09-17T17:57:01Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_816",
+      "customer": {
+        "name": "Ella Garcia",
+        "email": "ella.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_179",
+      "amount": 158.66,
+      "currency": "USD",
+      "date": "2025-09-17T15:01:22Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_735",
+      "customer": {
+        "name": "Alexander Taylor",
+        "email": "alexander.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_011",
+      "amount": 120.8,
+      "currency": "USD",
+      "date": "2025-09-17T13:30:27Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_639",
+      "customer": {
+        "name": "Evelyn Jones",
+        "email": "evelyn.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_406",
+      "amount": 143.7,
+      "currency": "USD",
+      "date": "2025-09-17T12:49:53Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_796",
+      "customer": {
+        "name": "Lucas Jackson",
+        "email": "lucas.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_362",
+      "amount": 198.08,
+      "currency": "USD",
+      "date": "2025-09-17T11:34:25Z",
+      "description": "Service payment",
+      "customer_id": "cust_152",
+      "customer": {
+        "name": "Harper Jackson",
+        "email": "harper.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_043",
+      "amount": 172.86,
+      "currency": "USD",
+      "date": "2025-09-17T10:50:33Z",
+      "description": "Refund",
+      "customer_id": "cust_921",
+      "customer": {
+        "name": "Mia Martinez",
+        "email": "mia.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_358",
+      "amount": 239.05,
+      "currency": "USD",
+      "date": "2025-09-17T09:48:46Z",
+      "description": "Online order",
+      "customer_id": "cust_267",
+      "customer": {
+        "name": "Elijah Brown",
+        "email": "elijah.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_118",
+      "amount": 35.88,
+      "currency": "USD",
+      "date": "2025-09-17T08:18:03Z",
+      "description": "Online order",
+      "customer_id": "cust_120",
+      "customer": {
+        "name": "Harper Smith",
+        "email": "harper.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_255",
+      "amount": 31.48,
+      "currency": "USD",
+      "date": "2025-09-17T07:23:48Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_489",
+      "customer": {
+        "name": "Ella Smith",
+        "email": "ella.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_403",
+      "amount": 40.33,
+      "currency": "USD",
+      "date": "2025-09-17T03:07:51Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_590",
+      "customer": {
+        "name": "John Wilson",
+        "email": "john.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_337",
+      "amount": 206.88,
+      "currency": "USD",
+      "date": "2025-09-17T02:10:10Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_997",
+      "customer": {
+        "name": "Elijah Taylor",
+        "email": "elijah.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_258",
+      "amount": 182.56,
+      "currency": "USD",
+      "date": "2025-09-16T15:33:13Z",
+      "description": "Online order",
+      "customer_id": "cust_349",
+      "customer": {
+        "name": "Elijah Brown",
+        "email": "elijah.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_073",
+      "amount": 98.42,
+      "currency": "USD",
+      "date": "2025-09-16T13:02:02Z",
+      "description": "Online order",
+      "customer_id": "cust_830",
+      "customer": {
+        "name": "Benjamin Johnson",
+        "email": "benjamin.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_115",
+      "amount": 287.16,
+      "currency": "USD",
+      "date": "2025-09-16T09:05:19Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_292",
+      "customer": {
+        "name": "Charlotte Jackson",
+        "email": "charlotte.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_460",
+      "amount": 184.65,
+      "currency": "USD",
+      "date": "2025-09-15T23:50:31Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_828",
+      "customer": {
+        "name": "Ava Miller",
+        "email": "ava.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_211",
+      "amount": 130.07,
+      "currency": "USD",
+      "date": "2025-09-15T22:40:22Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_884",
+      "customer": {
+        "name": "Henry Rodriguez",
+        "email": "henry.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_481",
+      "amount": 78.93,
+      "currency": "USD",
+      "date": "2025-09-15T20:44:08Z",
+      "description": "Online order",
+      "customer_id": "cust_485",
+      "customer": {
+        "name": "Alexander Thompson",
+        "email": "alexander.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_226",
+      "amount": 20.57,
+      "currency": "USD",
+      "date": "2025-09-15T15:11:02Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_567",
+      "customer": {
+        "name": "Alexander Jones",
+        "email": "alexander.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_380",
+      "amount": 189.89,
+      "currency": "USD",
+      "date": "2025-09-15T08:23:43Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_308",
+      "customer": {
+        "name": "Liam Garcia",
+        "email": "liam.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_259",
+      "amount": 153.46,
+      "currency": "USD",
+      "date": "2025-09-15T02:20:55Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_859",
+      "customer": {
+        "name": "Henry Hernandez",
+        "email": "henry.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_321",
+      "amount": 83.5,
+      "currency": "USD",
+      "date": "2025-09-14T20:02:12Z",
+      "description": "Service payment",
+      "customer_id": "cust_431",
+      "customer": {
+        "name": "James Jones",
+        "email": "james.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_149",
+      "amount": 103.58,
+      "currency": "USD",
+      "date": "2025-09-14T18:17:10Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_560",
+      "customer": {
+        "name": "Harper Anderson",
+        "email": "harper.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_466",
+      "amount": 308.04,
+      "currency": "USD",
+      "date": "2025-09-14T17:32:08Z",
+      "description": "Online order",
+      "customer_id": "cust_642",
+      "customer": {
+        "name": "Elijah Jackson",
+        "email": "elijah.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_334",
+      "amount": 162.04,
+      "currency": "USD",
+      "date": "2025-09-14T08:52:51Z",
+      "description": "Refund",
+      "customer_id": "cust_350",
+      "customer": {
+        "name": "Harper Rodriguez",
+        "email": "harper.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_164",
+      "amount": 32.75,
+      "currency": "USD",
+      "date": "2025-09-14T08:38:35Z",
+      "description": "Refund",
+      "customer_id": "cust_126",
+      "customer": {
+        "name": "Alexander Lee",
+        "email": "alexander.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_441",
+      "amount": 178.06,
+      "currency": "USD",
+      "date": "2025-09-14T07:54:42Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_827",
+      "customer": {
+        "name": "Harper Jackson",
+        "email": "harper.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_495",
+      "amount": 24.96,
+      "currency": "USD",
+      "date": "2025-09-14T06:59:21Z",
+      "description": "Service payment",
+      "customer_id": "cust_653",
+      "customer": {
+        "name": "Michael Williams",
+        "email": "michael.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_429",
+      "amount": 127.46,
+      "currency": "USD",
+      "date": "2025-09-14T04:17:17Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_394",
+      "customer": {
+        "name": "Amelia Wilson",
+        "email": "amelia.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_335",
+      "amount": 168.43,
+      "currency": "USD",
+      "date": "2025-09-13T21:21:53Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_464",
+      "customer": {
+        "name": "Noah Johnson",
+        "email": "noah.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_422",
+      "amount": 244.84,
+      "currency": "USD",
+      "date": "2025-09-13T15:24:58Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_363",
+      "customer": {
+        "name": "Liam Thompson",
+        "email": "liam.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_034",
+      "amount": 227.15,
+      "currency": "USD",
+      "date": "2025-09-13T11:15:21Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_300",
+      "customer": {
+        "name": "Charlotte Williams",
+        "email": "charlotte.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_472",
+      "amount": 269.84,
+      "currency": "USD",
+      "date": "2025-09-13T08:41:21Z",
+      "description": "Online order",
+      "customer_id": "cust_522",
+      "customer": {
+        "name": "Olivia Thompson",
+        "email": "olivia.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_228",
+      "amount": 247.61,
+      "currency": "USD",
+      "date": "2025-09-13T03:45:33Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_138",
+      "customer": {
+        "name": "Michael Smith",
+        "email": "michael.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_013",
+      "amount": 265.29,
+      "currency": "USD",
+      "date": "2025-09-13T01:12:08Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_296",
+      "customer": {
+        "name": "Ethan Taylor",
+        "email": "ethan.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_417",
+      "amount": 35.36,
+      "currency": "USD",
+      "date": "2025-09-12T07:13:06Z",
+      "description": "Service payment",
+      "customer_id": "cust_995",
+      "customer": {
+        "name": "Lucas Rodriguez",
+        "email": "lucas.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_497",
+      "amount": 182.44,
+      "currency": "USD",
+      "date": "2025-09-12T07:13:00Z",
+      "description": "Refund",
+      "customer_id": "cust_755",
+      "customer": {
+        "name": "Mia Martinez",
+        "email": "mia.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_398",
+      "amount": 317.02,
+      "currency": "USD",
+      "date": "2025-09-12T07:11:36Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_582",
+      "customer": {
+        "name": "Ethan Lee",
+        "email": "ethan.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_144",
+      "amount": 151.14,
+      "currency": "USD",
+      "date": "2025-09-12T03:12:35Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_873",
+      "customer": {
+        "name": "Liam Lee",
+        "email": "liam.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_204",
+      "amount": 80.43,
+      "currency": "USD",
+      "date": "2025-09-12T00:22:00Z",
+      "description": "Online order",
+      "customer_id": "cust_234",
+      "customer": {
+        "name": "Michael Williams",
+        "email": "michael.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_091",
+      "amount": 262.33,
+      "currency": "USD",
+      "date": "2025-09-11T23:50:10Z",
+      "description": "Online order",
+      "customer_id": "cust_579",
+      "customer": {
+        "name": "Ava Johnson",
+        "email": "ava.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_156",
+      "amount": 304.04,
+      "currency": "USD",
+      "date": "2025-09-11T17:43:04Z",
+      "description": "Online order",
+      "customer_id": "cust_182",
+      "customer": {
+        "name": "Noah Martinez",
+        "email": "noah.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_303",
+      "amount": 250.36,
+      "currency": "USD",
+      "date": "2025-09-11T10:20:37Z",
+      "description": "Online order",
+      "customer_id": "cust_731",
+      "customer": {
+        "name": "John Smith",
+        "email": "john.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_127",
+      "amount": 252.24,
+      "currency": "USD",
+      "date": "2025-09-11T04:20:45Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_199",
+      "customer": {
+        "name": "Lucas Lee",
+        "email": "lucas.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_094",
+      "amount": 265.58,
+      "currency": "USD",
+      "date": "2025-09-11T04:20:34Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_361",
+      "customer": {
+        "name": "Noah Hernandez",
+        "email": "noah.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_499",
+      "amount": 182.22,
+      "currency": "USD",
+      "date": "2025-09-10T19:27:38Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_964",
+      "customer": {
+        "name": "Elijah Jones",
+        "email": "elijah.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_269",
+      "amount": 194.13,
+      "currency": "USD",
+      "date": "2025-09-10T17:57:18Z",
+      "description": "Online order",
+      "customer_id": "cust_892",
+      "customer": {
+        "name": "Mason Thomas",
+        "email": "mason.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_413",
+      "amount": 236.58,
+      "currency": "USD",
+      "date": "2025-09-10T17:17:39Z",
+      "description": "Online order",
+      "customer_id": "cust_127",
+      "customer": {
+        "name": "Michael Smith",
+        "email": "michael.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_454",
+      "amount": 272.57,
+      "currency": "USD",
+      "date": "2025-09-10T16:25:39Z",
+      "description": "Service payment",
+      "customer_id": "cust_459",
+      "customer": {
+        "name": "Liam Johnson",
+        "email": "liam.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_015",
+      "amount": 104.34,
+      "currency": "USD",
+      "date": "2025-09-10T15:01:44Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_850",
+      "customer": {
+        "name": "Emma Martin",
+        "email": "emma.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_100",
+      "amount": 112.53,
+      "currency": "USD",
+      "date": "2025-09-10T11:33:08Z",
+      "description": "Refund",
+      "customer_id": "cust_607",
+      "customer": {
+        "name": "Ava Martin",
+        "email": "ava.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_052",
+      "amount": 348.9,
+      "currency": "USD",
+      "date": "2025-09-10T05:33:37Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_483",
+      "customer": {
+        "name": "Amelia Williams",
+        "email": "amelia.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_223",
+      "amount": 185.6,
+      "currency": "USD",
+      "date": "2025-09-10T03:16:51Z",
+      "description": "Refund",
+      "customer_id": "cust_878",
+      "customer": {
+        "name": "Ava Thompson",
+        "email": "ava.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_217",
+      "amount": 38.32,
+      "currency": "USD",
+      "date": "2025-09-10T02:47:22Z",
+      "description": "Service payment",
+      "customer_id": "cust_183",
+      "customer": {
+        "name": "Ethan Rodriguez",
+        "email": "ethan.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_279",
+      "amount": 20.58,
+      "currency": "USD",
+      "date": "2025-09-10T01:31:27Z",
+      "description": "Service payment",
+      "customer_id": "cust_738",
+      "customer": {
+        "name": "Isabella Martinez",
+        "email": "isabella.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_203",
+      "amount": 226.23,
+      "currency": "USD",
+      "date": "2025-09-10T01:00:12Z",
+      "description": "Refund",
+      "customer_id": "cust_277",
+      "customer": {
+        "name": "Sophia Martin",
+        "email": "sophia.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_246",
+      "amount": 113.04,
+      "currency": "USD",
+      "date": "2025-09-09T23:49:06Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_437",
+      "customer": {
+        "name": "Ella Garcia",
+        "email": "ella.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_356",
+      "amount": 72.61,
+      "currency": "USD",
+      "date": "2025-09-09T21:31:19Z",
+      "description": "Refund",
+      "customer_id": "cust_620",
+      "customer": {
+        "name": "Noah Davis",
+        "email": "noah.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_391",
+      "amount": 31.19,
+      "currency": "USD",
+      "date": "2025-09-09T16:47:26Z",
+      "description": "Service payment",
+      "customer_id": "cust_553",
+      "customer": {
+        "name": "Isabella Wilson",
+        "email": "isabella.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_347",
+      "amount": 178.69,
+      "currency": "USD",
+      "date": "2025-09-09T13:27:25Z",
+      "description": "Service payment",
+      "customer_id": "cust_255",
+      "customer": {
+        "name": "Olivia Martin",
+        "email": "olivia.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_490",
+      "amount": 338.1,
+      "currency": "USD",
+      "date": "2025-09-09T01:15:44Z",
+      "description": "Online order",
+      "customer_id": "cust_251",
+      "customer": {
+        "name": "Ethan Jackson",
+        "email": "ethan.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_264",
+      "amount": 149.01,
+      "currency": "USD",
+      "date": "2025-09-08T23:49:07Z",
+      "description": "Online order",
+      "customer_id": "cust_319",
+      "customer": {
+        "name": "John Williams",
+        "email": "john.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_051",
+      "amount": 339.04,
+      "currency": "USD",
+      "date": "2025-09-08T23:40:20Z",
+      "description": "Service payment",
+      "customer_id": "cust_540",
+      "customer": {
+        "name": "Henry Brown",
+        "email": "henry.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_069",
+      "amount": 316.88,
+      "currency": "USD",
+      "date": "2025-09-08T23:25:57Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_447",
+      "customer": {
+        "name": "Liam Anderson",
+        "email": "liam.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_272",
+      "amount": 40.71,
+      "currency": "USD",
+      "date": "2025-09-08T20:32:57Z",
+      "description": "Online order",
+      "customer_id": "cust_556",
+      "customer": {
+        "name": "Mia Hernandez",
+        "email": "mia.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_123",
+      "amount": 347.34,
+      "currency": "USD",
+      "date": "2025-09-08T10:19:02Z",
+      "description": "Refund",
+      "customer_id": "cust_599",
+      "customer": {
+        "name": "Benjamin Brown",
+        "email": "benjamin.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_075",
+      "amount": 255.57,
+      "currency": "USD",
+      "date": "2025-09-08T10:10:30Z",
+      "description": "Service payment",
+      "customer_id": "cust_264",
+      "customer": {
+        "name": "Michael Martinez",
+        "email": "michael.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_129",
+      "amount": 83.99,
+      "currency": "USD",
+      "date": "2025-09-08T03:15:25Z",
+      "description": "Service payment",
+      "customer_id": "cust_475",
+      "customer": {
+        "name": "Harper Smith",
+        "email": "harper.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_331",
+      "amount": 193.81,
+      "currency": "USD",
+      "date": "2025-09-08T02:33:40Z",
+      "description": "Online order",
+      "customer_id": "cust_710",
+      "customer": {
+        "name": "Liam Johnson",
+        "email": "liam.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_206",
+      "amount": 328.29,
+      "currency": "USD",
+      "date": "2025-09-07T13:13:10Z",
+      "description": "Refund",
+      "customer_id": "cust_349",
+      "customer": {
+        "name": "Charlotte Taylor",
+        "email": "charlotte.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_152",
+      "amount": 142.34,
+      "currency": "USD",
+      "date": "2025-09-07T10:32:12Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_697",
+      "customer": {
+        "name": "Charlotte Smith",
+        "email": "charlotte.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_065",
+      "amount": 47.08,
+      "currency": "USD",
+      "date": "2025-09-06T17:06:28Z",
+      "description": "Refund",
+      "customer_id": "cust_524",
+      "customer": {
+        "name": "Harper Thompson",
+        "email": "harper.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_455",
+      "amount": 87.93,
+      "currency": "USD",
+      "date": "2025-09-06T09:37:26Z",
+      "description": "Online order",
+      "customer_id": "cust_564",
+      "customer": {
+        "name": "Ethan Brown",
+        "email": "ethan.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_309",
+      "amount": 239.17,
+      "currency": "USD",
+      "date": "2025-09-05T18:01:22Z",
+      "description": "Service payment",
+      "customer_id": "cust_510",
+      "customer": {
+        "name": "Mia Rodriguez",
+        "email": "mia.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_317",
+      "amount": 101.22,
+      "currency": "USD",
+      "date": "2025-09-05T15:19:37Z",
+      "description": "Service payment",
+      "customer_id": "cust_340",
+      "customer": {
+        "name": "John Garcia",
+        "email": "john.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_166",
+      "amount": 99.78,
+      "currency": "USD",
+      "date": "2025-09-04T23:03:42Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_213",
+      "customer": {
+        "name": "James Williams",
+        "email": "james.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_374",
+      "amount": 67.54,
+      "currency": "USD",
+      "date": "2025-09-04T22:57:40Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_412",
+      "customer": {
+        "name": "Henry Taylor",
+        "email": "henry.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_130",
+      "amount": 161.2,
+      "currency": "USD",
+      "date": "2025-09-04T22:32:55Z",
+      "description": "Online order",
+      "customer_id": "cust_416",
+      "customer": {
+        "name": "James Thomas",
+        "email": "james.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_312",
+      "amount": 228.48,
+      "currency": "USD",
+      "date": "2025-09-04T18:09:18Z",
+      "description": "Service payment",
+      "customer_id": "cust_661",
+      "customer": {
+        "name": "Evelyn Martinez",
+        "email": "evelyn.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_220",
+      "amount": 33.55,
+      "currency": "USD",
+      "date": "2025-09-04T11:12:22Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_219",
+      "customer": {
+        "name": "James Garcia",
+        "email": "james.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_090",
+      "amount": 211.77,
+      "currency": "USD",
+      "date": "2025-09-04T09:12:32Z",
+      "description": "Online order",
+      "customer_id": "cust_408",
+      "customer": {
+        "name": "Michael Brown",
+        "email": "michael.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_020",
+      "amount": 256.25,
+      "currency": "USD",
+      "date": "2025-09-04T06:55:12Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_120",
+      "customer": {
+        "name": "Elijah Jackson",
+        "email": "elijah.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_153",
+      "amount": 107.39,
+      "currency": "USD",
+      "date": "2025-09-04T06:05:41Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_147",
+      "customer": {
+        "name": "Elijah Lee",
+        "email": "elijah.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_110",
+      "amount": 327.82,
+      "currency": "USD",
+      "date": "2025-09-04T03:09:05Z",
+      "description": "Online order",
+      "customer_id": "cust_921",
+      "customer": {
+        "name": "Evelyn Lee",
+        "email": "evelyn.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_050",
+      "amount": 121.23,
+      "currency": "USD",
+      "date": "2025-09-03T23:34:59Z",
+      "description": "Refund",
+      "customer_id": "cust_801",
+      "customer": {
+        "name": "Mason Johnson",
+        "email": "mason.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_028",
+      "amount": 161.41,
+      "currency": "USD",
+      "date": "2025-09-03T18:37:11Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_322",
+      "customer": {
+        "name": "Mason Taylor",
+        "email": "mason.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_360",
+      "amount": 89.74,
+      "currency": "USD",
+      "date": "2025-09-03T07:37:55Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_845",
+      "customer": {
+        "name": "Olivia Martinez",
+        "email": "olivia.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_428",
+      "amount": 166.27,
+      "currency": "USD",
+      "date": "2025-09-03T03:57:38Z",
+      "description": "Service payment",
+      "customer_id": "cust_590",
+      "customer": {
+        "name": "Isabella Davis",
+        "email": "isabella.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_225",
+      "amount": 138.6,
+      "currency": "USD",
+      "date": "2025-09-02T23:39:04Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_228",
+      "customer": {
+        "name": "Abigail Garcia",
+        "email": "abigail.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_014",
+      "amount": 271.55,
+      "currency": "USD",
+      "date": "2025-09-02T22:39:04Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_465",
+      "customer": {
+        "name": "Harper Anderson",
+        "email": "harper.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_431",
+      "amount": 169.3,
+      "currency": "USD",
+      "date": "2025-09-02T20:57:02Z",
+      "description": "Refund",
+      "customer_id": "cust_745",
+      "customer": {
+        "name": "Lucas Hernandez",
+        "email": "lucas.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_275",
+      "amount": 110.21,
+      "currency": "USD",
+      "date": "2025-09-02T16:19:51Z",
+      "description": "Service payment",
+      "customer_id": "cust_513",
+      "customer": {
+        "name": "Evelyn Brown",
+        "email": "evelyn.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_270",
+      "amount": 158.86,
+      "currency": "USD",
+      "date": "2025-09-02T11:08:42Z",
+      "description": "Service payment",
+      "customer_id": "cust_320",
+      "customer": {
+        "name": "Emma Jackson",
+        "email": "emma.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_500",
+      "amount": 279.14,
+      "currency": "USD",
+      "date": "2025-09-02T10:00:01Z",
+      "description": "Online order",
+      "customer_id": "cust_716",
+      "customer": {
+        "name": "Olivia Thompson",
+        "email": "olivia.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_199",
+      "amount": 105.1,
+      "currency": "USD",
+      "date": "2025-09-02T06:59:54Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_911",
+      "customer": {
+        "name": "Amelia Jackson",
+        "email": "amelia.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_379",
+      "amount": 56.94,
+      "currency": "USD",
+      "date": "2025-09-02T02:00:35Z",
+      "description": "Online order",
+      "customer_id": "cust_371",
+      "customer": {
+        "name": "Ella Wilson",
+        "email": "ella.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_200",
+      "amount": 241.99,
+      "currency": "USD",
+      "date": "2025-09-01T19:52:18Z",
+      "description": "Online order",
+      "customer_id": "cust_294",
+      "customer": {
+        "name": "Michael Hernandez",
+        "email": "michael.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_213",
+      "amount": 22.14,
+      "currency": "USD",
+      "date": "2025-09-01T14:34:12Z",
+      "description": "Online order",
+      "customer_id": "cust_782",
+      "customer": {
+        "name": "Olivia Jones",
+        "email": "olivia.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_498",
+      "amount": 331.18,
+      "currency": "USD",
+      "date": "2025-09-01T13:55:18Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_338",
+      "customer": {
+        "name": "Mia Moore",
+        "email": "mia.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_191",
+      "amount": 224.46,
+      "currency": "USD",
+      "date": "2025-09-01T13:11:11Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_158",
+      "customer": {
+        "name": "Liam Perez",
+        "email": "liam.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_004",
+      "amount": 96.63,
+      "currency": "USD",
+      "date": "2025-09-01T11:56:29Z",
+      "description": "Refund",
+      "customer_id": "cust_861",
+      "customer": {
+        "name": "Elijah Perez",
+        "email": "elijah.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_116",
+      "amount": 101.55,
+      "currency": "USD",
+      "date": "2025-09-01T07:15:23Z",
+      "description": "Refund",
+      "customer_id": "cust_189",
+      "customer": {
+        "name": "Abigail Jones",
+        "email": "abigail.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_351",
+      "amount": 27.88,
+      "currency": "USD",
+      "date": "2025-09-01T03:51:52Z",
+      "description": "Refund",
+      "customer_id": "cust_960",
+      "customer": {
+        "name": "Alexander Garcia",
+        "email": "alexander.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_260",
+      "amount": 52.92,
+      "currency": "USD",
+      "date": "2025-09-01T03:07:11Z",
+      "description": "Online order",
+      "customer_id": "cust_184",
+      "customer": {
+        "name": "Sophia Moore",
+        "email": "sophia.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_207",
+      "amount": 133.94,
+      "currency": "USD",
+      "date": "2025-09-01T01:34:45Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_150",
+      "customer": {
+        "name": "Ava Smith",
+        "email": "ava.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_319",
+      "amount": 21.4,
+      "currency": "USD",
+      "date": "2025-08-28T23:49:33Z",
+      "description": "Service payment",
+      "customer_id": "cust_780",
+      "customer": {
+        "name": "Isabella Moore",
+        "email": "isabella.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_169",
+      "amount": 318.18,
+      "currency": "USD",
+      "date": "2025-08-28T23:24:20Z",
+      "description": "Refund",
+      "customer_id": "cust_242",
+      "customer": {
+        "name": "Mia Perez",
+        "email": "mia.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_444",
+      "amount": 189.18,
+      "currency": "USD",
+      "date": "2025-08-28T18:54:40Z",
+      "description": "Refund",
+      "customer_id": "cust_446",
+      "customer": {
+        "name": "Abigail Lopez",
+        "email": "abigail.lopez@example.com"
+      }
+    },
+    {
+      "id": "txn_392",
+      "amount": 149.09,
+      "currency": "USD",
+      "date": "2025-08-28T17:34:42Z",
+      "description": "Online order",
+      "customer_id": "cust_176",
+      "customer": {
+        "name": "Lucas Wilson",
+        "email": "lucas.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_389",
+      "amount": 228.88,
+      "currency": "USD",
+      "date": "2025-08-28T08:34:00Z",
+      "description": "Service payment",
+      "customer_id": "cust_536",
+      "customer": {
+        "name": "Noah Rodriguez",
+        "email": "noah.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_399",
+      "amount": 284.76,
+      "currency": "USD",
+      "date": "2025-08-28T01:34:25Z",
+      "description": "Service payment",
+      "customer_id": "cust_783",
+      "customer": {
+        "name": "Charlotte Thompson",
+        "email": "charlotte.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_483",
+      "amount": 50.2,
+      "currency": "USD",
+      "date": "2025-08-27T22:14:58Z",
+      "description": "Service payment",
+      "customer_id": "cust_400",
+      "customer": {
+        "name": "Alexander Anderson",
+        "email": "alexander.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_310",
+      "amount": 222.09,
+      "currency": "USD",
+      "date": "2025-08-27T22:01:19Z",
+      "description": "Online order",
+      "customer_id": "cust_577",
+      "customer": {
+        "name": "Ethan Taylor",
+        "email": "ethan.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_183",
+      "amount": 275.43,
+      "currency": "USD",
+      "date": "2025-08-27T16:19:13Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_433",
+      "customer": {
+        "name": "Benjamin Lopez",
+        "email": "benjamin.lopez@example.com"
+      }
+    },
+    {
+      "id": "txn_218",
+      "amount": 174.73,
+      "currency": "USD",
+      "date": "2025-08-27T11:32:16Z",
+      "description": "Online order",
+      "customer_id": "cust_969",
+      "customer": {
+        "name": "Elijah Hernandez",
+        "email": "elijah.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_145",
+      "amount": 179.49,
+      "currency": "USD",
+      "date": "2025-08-27T04:55:29Z",
+      "description": "Refund",
+      "customer_id": "cust_732",
+      "customer": {
+        "name": "Lucas Jones",
+        "email": "lucas.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_158",
+      "amount": 344.93,
+      "currency": "USD",
+      "date": "2025-08-27T00:04:17Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_168",
+      "customer": {
+        "name": "Lucas Jackson",
+        "email": "lucas.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_430",
+      "amount": 42.83,
+      "currency": "USD",
+      "date": "2025-08-26T23:29:52Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_301",
+      "customer": {
+        "name": "Charlotte Rodriguez",
+        "email": "charlotte.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_349",
+      "amount": 307.8,
+      "currency": "USD",
+      "date": "2025-08-26T19:35:32Z",
+      "description": "Refund",
+      "customer_id": "cust_846",
+      "customer": {
+        "name": "James Davis",
+        "email": "james.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_054",
+      "amount": 290.42,
+      "currency": "USD",
+      "date": "2025-08-26T19:22:46Z",
+      "description": "Refund",
+      "customer_id": "cust_701",
+      "customer": {
+        "name": "Abigail Moore",
+        "email": "abigail.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_346",
+      "amount": 205.94,
+      "currency": "USD",
+      "date": "2025-08-26T15:21:38Z",
+      "description": "Refund",
+      "customer_id": "cust_397",
+      "customer": {
+        "name": "Liam Brown",
+        "email": "liam.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_111",
+      "amount": 65.41,
+      "currency": "USD",
+      "date": "2025-08-26T10:42:27Z",
+      "description": "Refund",
+      "customer_id": "cust_152",
+      "customer": {
+        "name": "Benjamin Davis",
+        "email": "benjamin.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_243",
+      "amount": 106.88,
+      "currency": "USD",
+      "date": "2025-08-26T08:54:37Z",
+      "description": "Online order",
+      "customer_id": "cust_906",
+      "customer": {
+        "name": "Amelia Johnson",
+        "email": "amelia.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_345",
+      "amount": 54.89,
+      "currency": "USD",
+      "date": "2025-08-26T06:53:49Z",
+      "description": "Refund",
+      "customer_id": "cust_843",
+      "customer": {
+        "name": "Ella Anderson",
+        "email": "ella.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_274",
+      "amount": 251.04,
+      "currency": "USD",
+      "date": "2025-08-26T06:33:53Z",
+      "description": "Service payment",
+      "customer_id": "cust_848",
+      "customer": {
+        "name": "Isabella Thomas",
+        "email": "isabella.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_017",
+      "amount": 278.05,
+      "currency": "USD",
+      "date": "2025-08-26T04:57:55Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_180",
+      "customer": {
+        "name": "Lucas Davis",
+        "email": "lucas.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_435",
+      "amount": 149.72,
+      "currency": "USD",
+      "date": "2025-08-26T01:55:06Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_887",
+      "customer": {
+        "name": "Isabella Hernandez",
+        "email": "isabella.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_208",
+      "amount": 141.39,
+      "currency": "USD",
+      "date": "2025-08-25T12:58:30Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_427",
+      "customer": {
+        "name": "Abigail Wilson",
+        "email": "abigail.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_407",
+      "amount": 74.12,
+      "currency": "USD",
+      "date": "2025-08-25T05:44:11Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_106",
+      "customer": {
+        "name": "John Thompson",
+        "email": "john.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_287",
+      "amount": 285.81,
+      "currency": "USD",
+      "date": "2025-08-25T04:24:32Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_734",
+      "customer": {
+        "name": "Ava Miller",
+        "email": "ava.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_071",
+      "amount": 293.64,
+      "currency": "USD",
+      "date": "2025-08-25T00:59:42Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_804",
+      "customer": {
+        "name": "Ethan Brown",
+        "email": "ethan.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_365",
+      "amount": 267.16,
+      "currency": "USD",
+      "date": "2025-08-25T00:46:50Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_423",
+      "customer": {
+        "name": "Alexander Moore",
+        "email": "alexander.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_477",
+      "amount": 89.76,
+      "currency": "USD",
+      "date": "2025-08-24T17:01:27Z",
+      "description": "Online order",
+      "customer_id": "cust_899",
+      "customer": {
+        "name": "Liam Anderson",
+        "email": "liam.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_240",
+      "amount": 46.5,
+      "currency": "USD",
+      "date": "2025-08-24T15:30:02Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_967",
+      "customer": {
+        "name": "Henry Anderson",
+        "email": "henry.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_300",
+      "amount": 163.89,
+      "currency": "USD",
+      "date": "2025-08-24T12:04:42Z",
+      "description": "Online order",
+      "customer_id": "cust_847",
+      "customer": {
+        "name": "Amelia Martin",
+        "email": "amelia.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_221",
+      "amount": 272.09,
+      "currency": "USD",
+      "date": "2025-08-24T04:18:55Z",
+      "description": "Refund",
+      "customer_id": "cust_587",
+      "customer": {
+        "name": "Ella Taylor",
+        "email": "ella.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_178",
+      "amount": 69.78,
+      "currency": "USD",
+      "date": "2025-08-24T02:16:23Z",
+      "description": "Service payment",
+      "customer_id": "cust_168",
+      "customer": {
+        "name": "Ethan Thomas",
+        "email": "ethan.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_099",
+      "amount": 165.07,
+      "currency": "USD",
+      "date": "2025-08-24T01:47:40Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_388",
+      "customer": {
+        "name": "Harper Williams",
+        "email": "harper.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_492",
+      "amount": 320.55,
+      "currency": "USD",
+      "date": "2025-08-23T19:19:50Z",
+      "description": "Online order",
+      "customer_id": "cust_310",
+      "customer": {
+        "name": "Michael Martinez",
+        "email": "michael.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_295",
+      "amount": 97.1,
+      "currency": "USD",
+      "date": "2025-08-23T17:29:56Z",
+      "description": "Service payment",
+      "customer_id": "cust_385",
+      "customer": {
+        "name": "Elijah Martinez",
+        "email": "elijah.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_212",
+      "amount": 327.1,
+      "currency": "USD",
+      "date": "2025-08-23T14:40:52Z",
+      "description": "Service payment",
+      "customer_id": "cust_632",
+      "customer": {
+        "name": "Olivia Jones",
+        "email": "olivia.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_242",
+      "amount": 129.61,
+      "currency": "USD",
+      "date": "2025-08-23T14:12:18Z",
+      "description": "Refund",
+      "customer_id": "cust_501",
+      "customer": {
+        "name": "Charlotte Lopez",
+        "email": "charlotte.lopez@example.com"
+      }
+    },
+    {
+      "id": "txn_461",
+      "amount": 183.55,
+      "currency": "USD",
+      "date": "2025-08-23T13:15:44Z",
+      "description": "Refund",
+      "customer_id": "cust_586",
+      "customer": {
+        "name": "Noah Smith",
+        "email": "noah.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_025",
+      "amount": 287.68,
+      "currency": "USD",
+      "date": "2025-08-23T07:28:30Z",
+      "description": "Online order",
+      "customer_id": "cust_771",
+      "customer": {
+        "name": "Elijah Williams",
+        "email": "elijah.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_478",
+      "amount": 142.76,
+      "currency": "USD",
+      "date": "2025-08-23T06:33:01Z",
+      "description": "Service payment",
+      "customer_id": "cust_919",
+      "customer": {
+        "name": "Isabella Martinez",
+        "email": "isabella.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_378",
+      "amount": 174.68,
+      "currency": "USD",
+      "date": "2025-08-23T02:37:10Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_808",
+      "customer": {
+        "name": "Harper Garcia",
+        "email": "harper.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_298",
+      "amount": 128.17,
+      "currency": "USD",
+      "date": "2025-08-22T23:33:10Z",
+      "description": "Refund",
+      "customer_id": "cust_674",
+      "customer": {
+        "name": "Isabella Smith",
+        "email": "isabella.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_187",
+      "amount": 90.99,
+      "currency": "USD",
+      "date": "2025-08-22T22:52:28Z",
+      "description": "Service payment",
+      "customer_id": "cust_447",
+      "customer": {
+        "name": "Charlotte Thomas",
+        "email": "charlotte.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_304",
+      "amount": 249.41,
+      "currency": "USD",
+      "date": "2025-08-22T20:29:27Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_514",
+      "customer": {
+        "name": "Harper Garcia",
+        "email": "harper.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_170",
+      "amount": 193.45,
+      "currency": "USD",
+      "date": "2025-08-22T18:12:10Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_282",
+      "customer": {
+        "name": "Isabella Rodriguez",
+        "email": "isabella.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_393",
+      "amount": 335.74,
+      "currency": "USD",
+      "date": "2025-08-22T17:06:38Z",
+      "description": "Refund",
+      "customer_id": "cust_347",
+      "customer": {
+        "name": "Ethan Lopez",
+        "email": "ethan.lopez@example.com"
+      }
+    },
+    {
+      "id": "txn_367",
+      "amount": 300.55,
+      "currency": "USD",
+      "date": "2025-08-22T14:39:41Z",
+      "description": "Online order",
+      "customer_id": "cust_964",
+      "customer": {
+        "name": "Mason Hernandez",
+        "email": "mason.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_248",
+      "amount": 208.47,
+      "currency": "USD",
+      "date": "2025-08-22T12:28:30Z",
+      "description": "Service payment",
+      "customer_id": "cust_508",
+      "customer": {
+        "name": "Evelyn Hernandez",
+        "email": "evelyn.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_140",
+      "amount": 33.01,
+      "currency": "USD",
+      "date": "2025-08-22T10:22:31Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_211",
+      "customer": {
+        "name": "Liam Martin",
+        "email": "liam.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_415",
+      "amount": 241.32,
+      "currency": "USD",
+      "date": "2025-08-22T03:44:08Z",
+      "description": "Service payment",
+      "customer_id": "cust_632",
+      "customer": {
+        "name": "Noah Rodriguez",
+        "email": "noah.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_016",
+      "amount": 108.73,
+      "currency": "USD",
+      "date": "2025-08-22T01:08:14Z",
+      "description": "Online order",
+      "customer_id": "cust_750",
+      "customer": {
+        "name": "Isabella Moore",
+        "email": "isabella.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_330",
+      "amount": 166.46,
+      "currency": "USD",
+      "date": "2025-08-21T12:37:29Z",
+      "description": "Service payment",
+      "customer_id": "cust_197",
+      "customer": {
+        "name": "Lucas Garcia",
+        "email": "lucas.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_049",
+      "amount": 98.53,
+      "currency": "USD",
+      "date": "2025-08-21T11:10:52Z",
+      "description": "Refund",
+      "customer_id": "cust_268",
+      "customer": {
+        "name": "Michael Moore",
+        "email": "michael.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_167",
+      "amount": 259.52,
+      "currency": "USD",
+      "date": "2025-08-21T09:13:36Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_807",
+      "customer": {
+        "name": "John Thompson",
+        "email": "john.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_390",
+      "amount": 258.29,
+      "currency": "USD",
+      "date": "2025-08-21T06:23:32Z",
+      "description": "Service payment",
+      "customer_id": "cust_440",
+      "customer": {
+        "name": "Mia Lee",
+        "email": "mia.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_396",
+      "amount": 329.03,
+      "currency": "USD",
+      "date": "2025-08-21T00:59:29Z",
+      "description": "Service payment",
+      "customer_id": "cust_996",
+      "customer": {
+        "name": "Henry Davis",
+        "email": "henry.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_233",
+      "amount": 149.12,
+      "currency": "USD",
+      "date": "2025-08-21T00:08:26Z",
+      "description": "Refund",
+      "customer_id": "cust_614",
+      "customer": {
+        "name": "Michael Jones",
+        "email": "michael.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_462",
+      "amount": 45.62,
+      "currency": "USD",
+      "date": "2025-08-20T21:00:26Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_108",
+      "customer": {
+        "name": "James Martin",
+        "email": "james.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_074",
+      "amount": 276.33,
+      "currency": "USD",
+      "date": "2025-08-20T18:42:52Z",
+      "description": "Service payment",
+      "customer_id": "cust_620",
+      "customer": {
+        "name": "Sophia Rodriguez",
+        "email": "sophia.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_197",
+      "amount": 297.05,
+      "currency": "USD",
+      "date": "2025-08-20T15:11:03Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_321",
+      "customer": {
+        "name": "James Williams",
+        "email": "james.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_060",
+      "amount": 110.42,
+      "currency": "USD",
+      "date": "2025-08-20T05:08:28Z",
+      "description": "Online order",
+      "customer_id": "cust_194",
+      "customer": {
+        "name": "Harper Garcia",
+        "email": "harper.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_480",
+      "amount": 85.86,
+      "currency": "USD",
+      "date": "2025-08-19T01:00:54Z",
+      "description": "Online order",
+      "customer_id": "cust_730",
+      "customer": {
+        "name": "Noah Jackson",
+        "email": "noah.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_313",
+      "amount": 202.34,
+      "currency": "USD",
+      "date": "2025-08-18T21:22:23Z",
+      "description": "Online order",
+      "customer_id": "cust_978",
+      "customer": {
+        "name": "Mia Martinez",
+        "email": "mia.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_180",
+      "amount": 49.17,
+      "currency": "USD",
+      "date": "2025-08-18T07:06:50Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_903",
+      "customer": {
+        "name": "Alexander Martin",
+        "email": "alexander.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_366",
+      "amount": 205.16,
+      "currency": "USD",
+      "date": "2025-08-18T01:51:11Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_885",
+      "customer": {
+        "name": "Henry Hernandez",
+        "email": "henry.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_007",
+      "amount": 155.66,
+      "currency": "USD",
+      "date": "2025-08-18T00:11:42Z",
+      "description": "Service payment",
+      "customer_id": "cust_330",
+      "customer": {
+        "name": "Ethan Rodriguez",
+        "email": "ethan.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_230",
+      "amount": 159.8,
+      "currency": "USD",
+      "date": "2025-08-17T14:55:24Z",
+      "description": "Service payment",
+      "customer_id": "cust_254",
+      "customer": {
+        "name": "Noah Miller",
+        "email": "noah.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_471",
+      "amount": 299.2,
+      "currency": "USD",
+      "date": "2025-08-17T12:18:41Z",
+      "description": "Refund",
+      "customer_id": "cust_901",
+      "customer": {
+        "name": "Mason Thomas",
+        "email": "mason.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_376",
+      "amount": 265.58,
+      "currency": "USD",
+      "date": "2025-08-17T08:25:00Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_565",
+      "customer": {
+        "name": "Emma Davis",
+        "email": "emma.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_201",
+      "amount": 174.83,
+      "currency": "USD",
+      "date": "2025-08-17T06:54:02Z",
+      "description": "Service payment",
+      "customer_id": "cust_932",
+      "customer": {
+        "name": "Amelia Moore",
+        "email": "amelia.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_293",
+      "amount": 277.78,
+      "currency": "USD",
+      "date": "2025-08-17T04:24:53Z",
+      "description": "Service payment",
+      "customer_id": "cust_397",
+      "customer": {
+        "name": "Elijah Miller",
+        "email": "elijah.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_426",
+      "amount": 31.77,
+      "currency": "USD",
+      "date": "2025-08-17T00:39:45Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_908",
+      "customer": {
+        "name": "Emma Garcia",
+        "email": "emma.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_357",
+      "amount": 180.26,
+      "currency": "USD",
+      "date": "2025-08-16T23:34:25Z",
+      "description": "Service payment",
+      "customer_id": "cust_178",
+      "customer": {
+        "name": "Elijah Martinez",
+        "email": "elijah.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_238",
+      "amount": 279.66,
+      "currency": "USD",
+      "date": "2025-08-16T19:17:59Z",
+      "description": "Refund",
+      "customer_id": "cust_865",
+      "customer": {
+        "name": "Charlotte Hernandez",
+        "email": "charlotte.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_443",
+      "amount": 238.74,
+      "currency": "USD",
+      "date": "2025-08-16T10:59:55Z",
+      "description": "Online order",
+      "customer_id": "cust_579",
+      "customer": {
+        "name": "Liam Thompson",
+        "email": "liam.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_350",
+      "amount": 160.77,
+      "currency": "USD",
+      "date": "2025-08-16T08:42:34Z",
+      "description": "Online order",
+      "customer_id": "cust_536",
+      "customer": {
+        "name": "Evelyn Anderson",
+        "email": "evelyn.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_023",
+      "amount": 242.04,
+      "currency": "USD",
+      "date": "2025-08-16T08:01:08Z",
+      "description": "Service payment",
+      "customer_id": "cust_511",
+      "customer": {
+        "name": "Emma Thompson",
+        "email": "emma.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_096",
+      "amount": 316.15,
+      "currency": "USD",
+      "date": "2025-08-16T07:03:22Z",
+      "description": "Online order",
+      "customer_id": "cust_488",
+      "customer": {
+        "name": "Ethan Anderson",
+        "email": "ethan.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_122",
+      "amount": 176.36,
+      "currency": "USD",
+      "date": "2025-08-16T00:12:35Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_179",
+      "customer": {
+        "name": "John Smith",
+        "email": "john.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_359",
+      "amount": 95.11,
+      "currency": "USD",
+      "date": "2025-08-15T21:48:20Z",
+      "description": "Service payment",
+      "customer_id": "cust_636",
+      "customer": {
+        "name": "Noah Anderson",
+        "email": "noah.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_181",
+      "amount": 63.51,
+      "currency": "USD",
+      "date": "2025-08-15T19:09:37Z",
+      "description": "Refund",
+      "customer_id": "cust_229",
+      "customer": {
+        "name": "Lucas Davis",
+        "email": "lucas.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_188",
+      "amount": 22.96,
+      "currency": "USD",
+      "date": "2025-08-15T12:15:05Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_365",
+      "customer": {
+        "name": "Harper Lee",
+        "email": "harper.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_288",
+      "amount": 333.95,
+      "currency": "USD",
+      "date": "2025-08-15T12:01:38Z",
+      "description": "Refund",
+      "customer_id": "cust_187",
+      "customer": {
+        "name": "Michael Jackson",
+        "email": "michael.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_327",
+      "amount": 274.38,
+      "currency": "USD",
+      "date": "2025-08-15T10:06:40Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_955",
+      "customer": {
+        "name": "Lucas Perez",
+        "email": "lucas.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_404",
+      "amount": 90.86,
+      "currency": "USD",
+      "date": "2025-08-15T09:57:19Z",
+      "description": "Service payment",
+      "customer_id": "cust_701",
+      "customer": {
+        "name": "Emma Johnson",
+        "email": "emma.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_247",
+      "amount": 177.59,
+      "currency": "USD",
+      "date": "2025-08-14T19:36:19Z",
+      "description": "Service payment",
+      "customer_id": "cust_361",
+      "customer": {
+        "name": "Abigail Perez",
+        "email": "abigail.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_401",
+      "amount": 198.73,
+      "currency": "USD",
+      "date": "2025-08-14T17:46:13Z",
+      "description": "Online order",
+      "customer_id": "cust_169",
+      "customer": {
+        "name": "Isabella Brown",
+        "email": "isabella.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_056",
+      "amount": 207.82,
+      "currency": "USD",
+      "date": "2025-08-14T15:29:08Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_870",
+      "customer": {
+        "name": "John Lee",
+        "email": "john.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_019",
+      "amount": 295.77,
+      "currency": "USD",
+      "date": "2025-08-14T14:57:53Z",
+      "description": "Service payment",
+      "customer_id": "cust_265",
+      "customer": {
+        "name": "Ethan Wilson",
+        "email": "ethan.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_072",
+      "amount": 270.05,
+      "currency": "USD",
+      "date": "2025-08-14T14:41:26Z",
+      "description": "Refund",
+      "customer_id": "cust_247",
+      "customer": {
+        "name": "Evelyn Moore",
+        "email": "evelyn.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_361",
+      "amount": 144.63,
+      "currency": "USD",
+      "date": "2025-08-14T12:43:44Z",
+      "description": "Service payment",
+      "customer_id": "cust_829",
+      "customer": {
+        "name": "Ethan Perez",
+        "email": "ethan.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_473",
+      "amount": 295.01,
+      "currency": "USD",
+      "date": "2025-08-14T07:36:52Z",
+      "description": "Service payment",
+      "customer_id": "cust_896",
+      "customer": {
+        "name": "Ethan Miller",
+        "email": "ethan.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_044",
+      "amount": 277.21,
+      "currency": "USD",
+      "date": "2025-08-14T04:29:14Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_675",
+      "customer": {
+        "name": "Alexander Davis",
+        "email": "alexander.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_447",
+      "amount": 320.35,
+      "currency": "USD",
+      "date": "2025-08-14T00:54:53Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_154",
+      "customer": {
+        "name": "Sophia Brown",
+        "email": "sophia.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_081",
+      "amount": 23.74,
+      "currency": "USD",
+      "date": "2025-08-13T23:40:41Z",
+      "description": "Refund",
+      "customer_id": "cust_117",
+      "customer": {
+        "name": "Olivia Williams",
+        "email": "olivia.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_339",
+      "amount": 288.12,
+      "currency": "USD",
+      "date": "2025-08-13T21:48:43Z",
+      "description": "Online order",
+      "customer_id": "cust_494",
+      "customer": {
+        "name": "Amelia Rodriguez",
+        "email": "amelia.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_456",
+      "amount": 95.19,
+      "currency": "USD",
+      "date": "2025-08-13T19:45:13Z",
+      "description": "Online order",
+      "customer_id": "cust_342",
+      "customer": {
+        "name": "Alexander Martin",
+        "email": "alexander.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_126",
+      "amount": 65.3,
+      "currency": "USD",
+      "date": "2025-08-13T14:38:56Z",
+      "description": "Online order",
+      "customer_id": "cust_675",
+      "customer": {
+        "name": "Emma Martin",
+        "email": "emma.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_276",
+      "amount": 299.1,
+      "currency": "USD",
+      "date": "2025-08-13T12:39:54Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_150",
+      "customer": {
+        "name": "Lucas Martin",
+        "email": "lucas.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_041",
+      "amount": 318.96,
+      "currency": "USD",
+      "date": "2025-08-13T11:26:24Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_679",
+      "customer": {
+        "name": "John Taylor",
+        "email": "john.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_038",
+      "amount": 83.87,
+      "currency": "USD",
+      "date": "2025-08-13T04:53:51Z",
+      "description": "Service payment",
+      "customer_id": "cust_491",
+      "customer": {
+        "name": "Alexander Moore",
+        "email": "alexander.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_411",
+      "amount": 174.52,
+      "currency": "USD",
+      "date": "2025-08-12T22:48:39Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_643",
+      "customer": {
+        "name": "Mia Jones",
+        "email": "mia.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_151",
+      "amount": 33.6,
+      "currency": "USD",
+      "date": "2025-08-12T14:34:26Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_707",
+      "customer": {
+        "name": "Amelia Moore",
+        "email": "amelia.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_134",
+      "amount": 123.69,
+      "currency": "USD",
+      "date": "2025-08-12T03:22:43Z",
+      "description": "Refund",
+      "customer_id": "cust_702",
+      "customer": {
+        "name": "Henry Smith",
+        "email": "henry.smith@example.com"
+      }
+    },
+    {
+      "id": "txn_344",
+      "amount": 272.92,
+      "currency": "USD",
+      "date": "2025-08-11T16:22:59Z",
+      "description": "Service payment",
+      "customer_id": "cust_152",
+      "customer": {
+        "name": "Isabella Miller",
+        "email": "isabella.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_185",
+      "amount": 299.93,
+      "currency": "USD",
+      "date": "2025-08-11T13:23:59Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_290",
+      "customer": {
+        "name": "Benjamin Thomas",
+        "email": "benjamin.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_323",
+      "amount": 339.59,
+      "currency": "USD",
+      "date": "2025-08-11T07:44:08Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_374",
+      "customer": {
+        "name": "Liam Perez",
+        "email": "liam.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_315",
+      "amount": 89.84,
+      "currency": "USD",
+      "date": "2025-08-11T07:23:26Z",
+      "description": "Refund",
+      "customer_id": "cust_322",
+      "customer": {
+        "name": "Evelyn Johnson",
+        "email": "evelyn.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_254",
+      "amount": 166.52,
+      "currency": "USD",
+      "date": "2025-08-11T06:36:57Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_607",
+      "customer": {
+        "name": "Sophia Wilson",
+        "email": "sophia.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_487",
+      "amount": 90.34,
+      "currency": "USD",
+      "date": "2025-08-11T00:33:55Z",
+      "description": "Refund",
+      "customer_id": "cust_115",
+      "customer": {
+        "name": "Liam Martin",
+        "email": "liam.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_231",
+      "amount": 265.26,
+      "currency": "USD",
+      "date": "2025-08-10T21:30:28Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_885",
+      "customer": {
+        "name": "Liam Garcia",
+        "email": "liam.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_421",
+      "amount": 133.39,
+      "currency": "USD",
+      "date": "2025-08-10T18:58:01Z",
+      "description": "Service payment",
+      "customer_id": "cust_374",
+      "customer": {
+        "name": "James Taylor",
+        "email": "james.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_439",
+      "amount": 169.16,
+      "currency": "USD",
+      "date": "2025-08-10T16:09:45Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_758",
+      "customer": {
+        "name": "Benjamin Garcia",
+        "email": "benjamin.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_215",
+      "amount": 286.95,
+      "currency": "USD",
+      "date": "2025-08-10T10:31:44Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_626",
+      "customer": {
+        "name": "Isabella Martin",
+        "email": "isabella.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_239",
+      "amount": 55.67,
+      "currency": "USD",
+      "date": "2025-08-10T08:16:47Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_907",
+      "customer": {
+        "name": "Amelia Martin",
+        "email": "amelia.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_352",
+      "amount": 245.49,
+      "currency": "USD",
+      "date": "2025-08-10T07:16:58Z",
+      "description": "Service payment",
+      "customer_id": "cust_911",
+      "customer": {
+        "name": "James Williams",
+        "email": "james.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_394",
+      "amount": 80.51,
+      "currency": "USD",
+      "date": "2025-08-10T03:32:16Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_933",
+      "customer": {
+        "name": "Charlotte Johnson",
+        "email": "charlotte.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_196",
+      "amount": 192.39,
+      "currency": "USD",
+      "date": "2025-08-10T02:08:42Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_827",
+      "customer": {
+        "name": "Harper Miller",
+        "email": "harper.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_210",
+      "amount": 58.14,
+      "currency": "USD",
+      "date": "2025-08-09T23:20:17Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_968",
+      "customer": {
+        "name": "Lucas Moore",
+        "email": "lucas.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_244",
+      "amount": 167.69,
+      "currency": "USD",
+      "date": "2025-08-09T21:31:53Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_301",
+      "customer": {
+        "name": "Mia Wilson",
+        "email": "mia.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_214",
+      "amount": 137.87,
+      "currency": "USD",
+      "date": "2025-08-09T19:58:42Z",
+      "description": "Service payment",
+      "customer_id": "cust_645",
+      "customer": {
+        "name": "Alexander Martinez",
+        "email": "alexander.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_372",
+      "amount": 148.0,
+      "currency": "USD",
+      "date": "2025-08-09T18:40:34Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_127",
+      "customer": {
+        "name": "Liam Hernandez",
+        "email": "liam.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_076",
+      "amount": 240.65,
+      "currency": "USD",
+      "date": "2025-08-09T16:47:37Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_717",
+      "customer": {
+        "name": "Olivia Garcia",
+        "email": "olivia.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_146",
+      "amount": 25.33,
+      "currency": "USD",
+      "date": "2025-08-09T15:59:26Z",
+      "description": "Refund",
+      "customer_id": "cust_456",
+      "customer": {
+        "name": "James Davis",
+        "email": "james.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_476",
+      "amount": 323.92,
+      "currency": "USD",
+      "date": "2025-08-09T10:23:35Z",
+      "description": "Online order",
+      "customer_id": "cust_511",
+      "customer": {
+        "name": "Noah Lopez",
+        "email": "noah.lopez@example.com"
+      }
+    },
+    {
+      "id": "txn_381",
+      "amount": 155.71,
+      "currency": "USD",
+      "date": "2025-08-09T07:21:01Z",
+      "description": "Refund",
+      "customer_id": "cust_559",
+      "customer": {
+        "name": "John Wilson",
+        "email": "john.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_440",
+      "amount": 336.16,
+      "currency": "USD",
+      "date": "2025-08-09T03:54:58Z",
+      "description": "Service payment",
+      "customer_id": "cust_129",
+      "customer": {
+        "name": "Olivia Jackson",
+        "email": "olivia.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_102",
+      "amount": 170.26,
+      "currency": "USD",
+      "date": "2025-08-09T03:52:34Z",
+      "description": "Online order",
+      "customer_id": "cust_873",
+      "customer": {
+        "name": "Michael Hernandez",
+        "email": "michael.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_058",
+      "amount": 188.65,
+      "currency": "USD",
+      "date": "2025-08-09T01:56:31Z",
+      "description": "Online order",
+      "customer_id": "cust_405",
+      "customer": {
+        "name": "Charlotte Miller",
+        "email": "charlotte.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_268",
+      "amount": 316.06,
+      "currency": "USD",
+      "date": "2025-08-09T01:54:50Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_275",
+      "customer": {
+        "name": "Olivia Martinez",
+        "email": "olivia.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_280",
+      "amount": 75.86,
+      "currency": "USD",
+      "date": "2025-08-08T23:39:00Z",
+      "description": "Online order",
+      "customer_id": "cust_679",
+      "customer": {
+        "name": "Ava Thomas",
+        "email": "ava.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_064",
+      "amount": 251.4,
+      "currency": "USD",
+      "date": "2025-08-08T22:49:24Z",
+      "description": "Service payment",
+      "customer_id": "cust_456",
+      "customer": {
+        "name": "Elijah Thomas",
+        "email": "elijah.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_227",
+      "amount": 232.03,
+      "currency": "USD",
+      "date": "2025-08-08T16:44:56Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_362",
+      "customer": {
+        "name": "Elijah Lee",
+        "email": "elijah.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_189",
+      "amount": 32.15,
+      "currency": "USD",
+      "date": "2025-08-08T08:29:13Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_459",
+      "customer": {
+        "name": "Olivia Thompson",
+        "email": "olivia.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_285",
+      "amount": 57.75,
+      "currency": "USD",
+      "date": "2025-08-08T06:41:48Z",
+      "description": "Online order",
+      "customer_id": "cust_963",
+      "customer": {
+        "name": "Liam Davis",
+        "email": "liam.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_114",
+      "amount": 290.11,
+      "currency": "USD",
+      "date": "2025-08-08T04:48:22Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_519",
+      "customer": {
+        "name": "Liam Wilson",
+        "email": "liam.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_482",
+      "amount": 265.54,
+      "currency": "USD",
+      "date": "2025-08-08T03:08:20Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_569",
+      "customer": {
+        "name": "Abigail Lopez",
+        "email": "abigail.lopez@example.com"
+      }
+    },
+    {
+      "id": "txn_341",
+      "amount": 343.95,
+      "currency": "USD",
+      "date": "2025-08-07T23:12:53Z",
+      "description": "Refund",
+      "customer_id": "cust_939",
+      "customer": {
+        "name": "Noah Hernandez",
+        "email": "noah.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_438",
+      "amount": 210.6,
+      "currency": "USD",
+      "date": "2025-08-07T15:52:58Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_568",
+      "customer": {
+        "name": "Olivia Taylor",
+        "email": "olivia.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_027",
+      "amount": 47.34,
+      "currency": "USD",
+      "date": "2025-08-07T14:43:15Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_469",
+      "customer": {
+        "name": "Ethan Thompson",
+        "email": "ethan.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_442",
+      "amount": 280.54,
+      "currency": "USD",
+      "date": "2025-08-07T12:59:58Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_895",
+      "customer": {
+        "name": "Lucas Moore",
+        "email": "lucas.moore@example.com"
+      }
+    },
+    {
+      "id": "txn_282",
+      "amount": 220.66,
+      "currency": "USD",
+      "date": "2025-08-07T11:32:54Z",
+      "description": "Refund",
+      "customer_id": "cust_463",
+      "customer": {
+        "name": "James Davis",
+        "email": "james.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_316",
+      "amount": 104.47,
+      "currency": "USD",
+      "date": "2025-08-07T10:19:16Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_887",
+      "customer": {
+        "name": "Lucas Hernandez",
+        "email": "lucas.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_338",
+      "amount": 137.9,
+      "currency": "USD",
+      "date": "2025-08-07T07:10:59Z",
+      "description": "Online order",
+      "customer_id": "cust_445",
+      "customer": {
+        "name": "Charlotte Jones",
+        "email": "charlotte.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_138",
+      "amount": 155.58,
+      "currency": "USD",
+      "date": "2025-08-06T13:01:39Z",
+      "description": "Online order",
+      "customer_id": "cust_435",
+      "customer": {
+        "name": "Abigail Miller",
+        "email": "abigail.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_157",
+      "amount": 32.59,
+      "currency": "USD",
+      "date": "2025-08-06T04:22:58Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_519",
+      "customer": {
+        "name": "Liam Jackson",
+        "email": "liam.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_336",
+      "amount": 160.18,
+      "currency": "USD",
+      "date": "2025-08-06T03:30:32Z",
+      "description": "Online order",
+      "customer_id": "cust_760",
+      "customer": {
+        "name": "Liam Hernandez",
+        "email": "liam.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_045",
+      "amount": 251.33,
+      "currency": "USD",
+      "date": "2025-08-05T22:05:48Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_178",
+      "customer": {
+        "name": "Amelia Anderson",
+        "email": "amelia.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_333",
+      "amount": 250.17,
+      "currency": "USD",
+      "date": "2025-08-05T14:29:54Z",
+      "description": "Online order",
+      "customer_id": "cust_897",
+      "customer": {
+        "name": "Lucas Johnson",
+        "email": "lucas.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_135",
+      "amount": 43.22,
+      "currency": "USD",
+      "date": "2025-08-05T11:26:21Z",
+      "description": "Refund",
+      "customer_id": "cust_770",
+      "customer": {
+        "name": "Ella Thompson",
+        "email": "ella.thompson@example.com"
+      }
+    },
+    {
+      "id": "txn_397",
+      "amount": 49.05,
+      "currency": "USD",
+      "date": "2025-08-05T07:53:22Z",
+      "description": "Online order",
+      "customer_id": "cust_203",
+      "customer": {
+        "name": "Mason Taylor",
+        "email": "mason.taylor@example.com"
+      }
+    },
+    {
+      "id": "txn_177",
+      "amount": 130.94,
+      "currency": "USD",
+      "date": "2025-08-05T01:11:47Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_892",
+      "customer": {
+        "name": "Elijah Thomas",
+        "email": "elijah.thomas@example.com"
+      }
+    },
+    {
+      "id": "txn_131",
+      "amount": 55.15,
+      "currency": "USD",
+      "date": "2025-08-05T00:01:40Z",
+      "description": "Service payment",
+      "customer_id": "cust_320",
+      "customer": {
+        "name": "Ella Miller",
+        "email": "ella.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_040",
+      "amount": 175.99,
+      "currency": "USD",
+      "date": "2025-08-04T18:07:13Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_944",
+      "customer": {
+        "name": "Noah Jones",
+        "email": "noah.jones@example.com"
+      }
+    },
+    {
+      "id": "txn_172",
+      "amount": 340.23,
+      "currency": "USD",
+      "date": "2025-08-04T17:28:41Z",
+      "description": "Refund",
+      "customer_id": "cust_381",
+      "customer": {
+        "name": "Noah Lee",
+        "email": "noah.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_219",
+      "amount": 174.65,
+      "currency": "USD",
+      "date": "2025-08-04T16:56:13Z",
+      "description": "Online order",
+      "customer_id": "cust_731",
+      "customer": {
+        "name": "Olivia Wilson",
+        "email": "olivia.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_132",
+      "amount": 39.4,
+      "currency": "USD",
+      "date": "2025-08-04T10:19:49Z",
+      "description": "Refund",
+      "customer_id": "cust_243",
+      "customer": {
+        "name": "Lucas Davis",
+        "email": "lucas.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_332",
+      "amount": 339.96,
+      "currency": "USD",
+      "date": "2025-08-04T07:34:19Z",
+      "description": "Service payment",
+      "customer_id": "cust_226",
+      "customer": {
+        "name": "James Lee",
+        "email": "james.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_241",
+      "amount": 217.75,
+      "currency": "USD",
+      "date": "2025-08-04T04:12:04Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_325",
+      "customer": {
+        "name": "Harper Brown",
+        "email": "harper.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_402",
+      "amount": 226.44,
+      "currency": "USD",
+      "date": "2025-08-04T01:30:19Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_908",
+      "customer": {
+        "name": "Charlotte Perez",
+        "email": "charlotte.perez@example.com"
+      }
+    },
+    {
+      "id": "txn_083",
+      "amount": 298.56,
+      "currency": "USD",
+      "date": "2025-08-03T20:36:48Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_542",
+      "customer": {
+        "name": "Charlotte Jackson",
+        "email": "charlotte.jackson@example.com"
+      }
+    },
+    {
+      "id": "txn_236",
+      "amount": 219.41,
+      "currency": "USD",
+      "date": "2025-08-03T17:57:28Z",
+      "description": "Refund",
+      "customer_id": "cust_812",
+      "customer": {
+        "name": "Amelia Brown",
+        "email": "amelia.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_008",
+      "amount": 83.4,
+      "currency": "USD",
+      "date": "2025-08-03T16:38:35Z",
+      "description": "Service payment",
+      "customer_id": "cust_289",
+      "customer": {
+        "name": "James Garcia",
+        "email": "james.garcia@example.com"
+      }
+    },
+    {
+      "id": "txn_162",
+      "amount": 72.62,
+      "currency": "USD",
+      "date": "2025-08-03T14:45:49Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_767",
+      "customer": {
+        "name": "Elijah Brown",
+        "email": "elijah.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_463",
+      "amount": 306.94,
+      "currency": "USD",
+      "date": "2025-08-03T11:17:40Z",
+      "description": "Refund",
+      "customer_id": "cust_653",
+      "customer": {
+        "name": "John Davis",
+        "email": "john.davis@example.com"
+      }
+    },
+    {
+      "id": "txn_024",
+      "amount": 269.25,
+      "currency": "USD",
+      "date": "2025-08-03T10:21:42Z",
+      "description": "Refund",
+      "customer_id": "cust_642",
+      "customer": {
+        "name": "Alexander Rodriguez",
+        "email": "alexander.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_003",
+      "amount": 93.3,
+      "currency": "USD",
+      "date": "2025-08-03T10:01:58Z",
+      "description": "Online order",
+      "customer_id": "cust_149",
+      "customer": {
+        "name": "Elijah Johnson",
+        "email": "elijah.johnson@example.com"
+      }
+    },
+    {
+      "id": "txn_010",
+      "amount": 250.91,
+      "currency": "USD",
+      "date": "2025-08-03T09:18:00Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_752",
+      "customer": {
+        "name": "Henry Martin",
+        "email": "henry.martin@example.com"
+      }
+    },
+    {
+      "id": "txn_342",
+      "amount": 144.41,
+      "currency": "USD",
+      "date": "2025-08-02T13:40:05Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_591",
+      "customer": {
+        "name": "John Lee",
+        "email": "john.lee@example.com"
+      }
+    },
+    {
+      "id": "txn_053",
+      "amount": 186.81,
+      "currency": "USD",
+      "date": "2025-08-02T12:39:08Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_232",
+      "customer": {
+        "name": "James Brown",
+        "email": "james.brown@example.com"
+      }
+    },
+    {
+      "id": "txn_340",
+      "amount": 52.2,
+      "currency": "USD",
+      "date": "2025-08-02T07:24:04Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_574",
+      "customer": {
+        "name": "Evelyn Williams",
+        "email": "evelyn.williams@example.com"
+      }
+    },
+    {
+      "id": "txn_292",
+      "amount": 313.11,
+      "currency": "USD",
+      "date": "2025-08-02T03:55:32Z",
+      "description": "Online order",
+      "customer_id": "cust_346",
+      "customer": {
+        "name": "Elijah Martinez",
+        "email": "elijah.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_059",
+      "amount": 332.6,
+      "currency": "USD",
+      "date": "2025-08-02T01:25:05Z",
+      "description": "Service payment",
+      "customer_id": "cust_687",
+      "customer": {
+        "name": "Charlotte Martinez",
+        "email": "charlotte.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_294",
+      "amount": 45.95,
+      "currency": "USD",
+      "date": "2025-08-01T22:00:47Z",
+      "description": "Subscription renewal",
+      "customer_id": "cust_444",
+      "customer": {
+        "name": "Mia Martinez",
+        "email": "mia.martinez@example.com"
+      }
+    },
+    {
+      "id": "txn_105",
+      "amount": 120.07,
+      "currency": "USD",
+      "date": "2025-08-01T21:29:47Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_875",
+      "customer": {
+        "name": "Evelyn Hernandez",
+        "email": "evelyn.hernandez@example.com"
+      }
+    },
+    {
+      "id": "txn_088",
+      "amount": 22.29,
+      "currency": "USD",
+      "date": "2025-08-01T16:09:24Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_811",
+      "customer": {
+        "name": "Alexander Miller",
+        "email": "alexander.miller@example.com"
+      }
+    },
+    {
+      "id": "txn_364",
+      "amount": 237.7,
+      "currency": "USD",
+      "date": "2025-08-01T13:31:42Z",
+      "description": "Online order",
+      "customer_id": "cust_453",
+      "customer": {
+        "name": "James Anderson",
+        "email": "james.anderson@example.com"
+      }
+    },
+    {
+      "id": "txn_322",
+      "amount": 77.91,
+      "currency": "USD",
+      "date": "2025-08-01T13:31:13Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_821",
+      "customer": {
+        "name": "Lucas Rodriguez",
+        "email": "lucas.rodriguez@example.com"
+      }
+    },
+    {
+      "id": "txn_160",
+      "amount": 129.53,
+      "currency": "USD",
+      "date": "2025-08-01T10:49:36Z",
+      "description": "Purchase at store",
+      "customer_id": "cust_232",
+      "customer": {
+        "name": "Emma Wilson",
+        "email": "emma.wilson@example.com"
+      }
+    },
+    {
+      "id": "txn_107",
+      "amount": 88.36,
+      "currency": "USD",
+      "date": "2025-08-01T06:31:39Z",
+      "description": "Refund",
+      "customer_id": "cust_995",
+      "customer": {
+        "name": "Olivia Lee",
+        "email": "olivia.lee@example.com"
+      }
+    }
+  ]
+}

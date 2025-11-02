@@ -1,0 +1,58 @@
+@import "../../styles/variables";
+
+.tableContainer {
+  width: 100%;
+  overflow-x: auto;
+  margin-top: $spacing-lg;
+}
+
+.transactionTable {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: $font-family-base;
+  background-color: #fff;
+  box-shadow: $shadow-soft;
+  border-radius: 8px;
+
+  th,
+  td {
+    padding: 12px $spacing-md;
+    text-align: left;
+  }
+
+  th {
+    background-color: $color-header-bg;
+    color: $color-text-primary;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+    border-bottom: 2px solid $color-border;
+  }
+
+  tr:nth-child(even) {
+    background-color: $color-row-even;
+  }
+
+  tr:hover {
+    background-color: $color-row-hover;
+    transition: background-color 0.2s ease;
+  }
+
+  td {
+    border-bottom: 1px solid $color-border;
+    font-size: 14px;
+    color: $color-text-secondary;
+  }
+}
+
+.amountCell {
+  font-weight: bold;
+  color: $color-accent;
+}
+
+.noData {
+  text-align: center;
+  padding: 40px;
+  font-size: 16px;
+  color: #777;
+}

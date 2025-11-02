@@ -1,0 +1,44 @@
+@import "../styles/variables";
+
+.appContainer {
+  background-color: #f9fafb;
+  min-height: 100vh;
+  padding: $spacing-lg;
+  color: $color-text-primary;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: $spacing-lg;
+
+  h1 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: $color-accent;
+    margin-bottom: $spacing-sm;
+  }
+
+  p {
+    color: $color-text-secondary;
+    font-size: 1rem;
+  }
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.loading,
+.error {
+  text-align: center;
+  font-size: 1.2rem;
+  padding: $spacing-lg;
+  color: $color-text-secondary;
+}
+
+.error {
+  color: #d93025;
+}
