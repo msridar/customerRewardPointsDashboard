@@ -9,7 +9,6 @@ const TransactionTable = ({ transactions = [] }) => {
   const [currentPage, setCurrentPage] = useState(1);
 
   const processedTransactions = useMemo(() => {
-    console.log("hello from memo", Date.now());
     if (!transactions.length) return [];
     const ascending = transactions.reverse();
 
@@ -50,7 +49,6 @@ const TransactionTable = ({ transactions = [] }) => {
 
   return (
     <div className={styles.tableContainer}>
-        {console.log("Current Transactions:", Date.now())}
       <table className={styles.transactionTable}>
         <thead>
           <tr>
