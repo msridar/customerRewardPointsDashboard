@@ -1,15 +1,31 @@
-import React, { useMemo, useState } from "react";
+import React, { useCallback, useMemo, useState } from "react";
 import styles from "./TransactionTable.module.scss";
 import { calculatePoints } from "../../utils/helperFunctions";
 import Pagination from "../pagination/Pagination";
+import Dropdown from "../fields/Dropdown";
+import Autocomplete from "../fields/Autocomplete";
 
 const itemsPerPage = 20;
 
 const TransactionTable = ({ transactions = [] }) => {
   const [currentPage, setCurrentPage] = useState(1);
+  const [selectedMonth, setSelectedMonth] = useState("All");
+  const [selectedUser, setSelectedUser] = useState("");
+
+  const monthOptions = useMemo(
+    () => [
+      { value: "All", label: "All" },
+      { value: "August", label: "August" },
+      { value: "September", label: "September" },
+      { value: "October", label: "October" },
+    ],
+    []
+  );
 
   const processedTransactions = useMemo(() => {
     if (!transactions.length) return [];
+
+    //Reversing for calculating total points (oldest -> latest)
     const ascending = transactions.reverse();
 
     const customerTotals = {};
@@ -31,17 +47,52 @@ const TransactionTable = ({ transactions = [] }) => {
       };
     });
 
-    // 3️⃣ Reverse again for display (latest → oldest)
+    //Reverse again for display (latest -> oldest)
     return withTotals.reverse();
   }, [transactions]);
 
-  const totalPages = Math.ceil(processedTransactions.length / itemsPerPage);
+  // Filter transactions by selected month
+  const filterByMonth = (data, month) => {
+    if (month === "All") return data;
+    return data.filter((txn) => {
+      const txnMonth = new Date(txn.date).toLocaleString("default", {
+        month: "long",
+      });
+      return txnMonth === month;
+    });
+  };
+
+  const filterByUser = (filteredData) => {
+    if (!selectedUser) return filteredData;
+    return filteredData.filter((txn) => txn.customer.name.toLowerCase().includes(selectedUser.toLowerCase()));
+  };
+
+  const filteredTransactions = useMemo(() => {
+    let data = filterByMonth(processedTransactions, selectedMonth);
+    return filterByUser(data);
+  }, [processedTransactions, selectedMonth, selectedUser]);
+
+  const totalPages = Math.ceil(filteredTransactions.length / itemsPerPage);
   const startIndex = (currentPage - 1) * itemsPerPage;
-  const currentTransactions = processedTransactions.slice(
+  const currentTransactions = filteredTransactions.slice(
     startIndex,
     startIndex + itemsPerPage
   );
 
+  const userOptions = useMemo(() => {
+    const names = Array.from(new Set(transactions.map((t) => t.customer.name)));
+    return names.map((n) => ({ value: n, label: n }));
+  }, [transactions]);
+
+  const handleMonthChange = useCallback((value) => {
+    setSelectedMonth(value);
+    setCurrentPage(1);
+  }, []);
+
+  const handleUserChange = useCallback((value) => {
+    setSelectedUser(value);
+    setCurrentPage(1);
+  }, []);
 
   if (!processedTransactions.length) {
     return <p className={styles.noData}>No transactions found.</p>;
@@ -49,6 +100,22 @@ const TransactionTable = ({ transactions = [] }) => {
 
   return (
     <div className={styles.tableContainer}>
+      <div className={styles.tableHeader}>
+        <Dropdown
+          label="Month"
+          options={monthOptions}
+          value={selectedMonth}
+          onChange={handleMonthChange}
+        />
+        <Autocomplete
+          label="Customer"
+          placeholder="Search Customer..."
+          options={userOptions}
+          value={selectedUser}
+          onSelect={handleUserChange}
+          minChars={3}
+        />
+      </div>
       <table className={styles.transactionTable}>
         <thead>
           <tr>

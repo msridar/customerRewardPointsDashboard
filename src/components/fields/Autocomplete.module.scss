@@ -1,0 +1,75 @@
+@import "../../styles/variables.scss";
+
+.autocompleteContainer {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: $spacing-xs;
+  margin-left: 10px;
+}
+
+.autocompleteLabel {
+  font-weight: 500;
+  color: $color-text-primary;
+}
+
+.autocompleteInput {
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid $color-border;
+  background-color: #fff;
+  font-size: 14px;
+  outline: none;
+  transition: border-color 0.2s;
+
+  &:focus {
+    border-color: $color-accent;
+    box-shadow: 0 0 0 2px rgba($color-accent, 0.3);
+  }
+}
+
+.autocompleteList {
+  position: absolute;
+  top: 100%;
+  background-color: #fff;
+  border: 1px solid $color-border;
+  border-radius: 6px;
+  max-height: 180px;
+  overflow-y: auto;
+  z-index: 100;
+  margin-top: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0px;
+  text-align: left;
+}
+.autocompleteInputContainer {
+    display: flex;
+    flex-direction: column;
+    min-width: 150px;
+}
+.autocompleteInputWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.clearButton {
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    padding: 0 6px;
+    line-height: 1;
+}
+
+.autocompleteItem {
+  padding: 6px 10px;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+
+  &:hover {
+    background-color: rgba($color-accent, 0.1);
+  }
+}

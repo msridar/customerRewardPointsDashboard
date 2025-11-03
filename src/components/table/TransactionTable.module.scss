@@ -6,6 +6,12 @@
   margin-top: $spacing-lg;
 }
 
+.tableHeader {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: $spacing-md;
+}
+
 .transactionTable {
   width: 100%;
   border-collapse: collapse;
