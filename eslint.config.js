@@ -2,6 +2,7 @@ import js from '@eslint/js'
 import globals from 'globals'
 import reactHooks from 'eslint-plugin-react-hooks'
 import reactRefresh from 'eslint-plugin-react-refresh'
+import jestPlugin from 'eslint-plugin-jest';
 import { defineConfig, globalIgnores } from 'eslint/config'
 
 export default defineConfig([
@@ -24,6 +25,23 @@ export default defineConfig([
     },
     rules: {
       'no-unused-vars': ['error', { varsIgnorePattern: '^[A-Z_]' }],
+    },
+  },
+
+  {
+    files: [
+      '**/__tests__/**/*.[jt]s?(x)',
+      '**/?(*.)+(spec|test).[jt]s?(x)',
+    ],
+    plugins: { jest: jestPlugin },
+    languageOptions: {
+      globals: {
+        ...globals.browser,
+        ...globals.jest,
+      },
+    },
+    rules: {
+      ...jestPlugin.configs.recommended.rules,
     },
   },
 ])
