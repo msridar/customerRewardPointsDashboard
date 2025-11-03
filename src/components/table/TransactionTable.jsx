@@ -109,7 +109,7 @@ const TransactionTable = ({ transactions = [] }) => {
         />
         <Autocomplete
           label="Customer"
-          placeholder="Search Customer..."
+          placeholder="Type at least 3 letters"
           options={userOptions}
           value={selectedUser}
           onSelect={handleUserChange}
