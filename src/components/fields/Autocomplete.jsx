@@ -12,7 +12,6 @@ const Autocomplete = React.memo(function Autocomplete({
 }) {
   const [query, setQuery] = useState("");
   const [showList, setShowList] = useState(false);
-    console.log("Autocomplete rendered");
   useEffect(() => {
     if (value === "") setQuery("");
   }, [value]);

@@ -8,7 +8,6 @@ const Dropdown = React.memo(function Dropdown({
   onChange,
   className = "",
 }) {
-  console.log("Dropdown rendered");
 
   return (
     <div className={`${styles.dropdownContainer} ${className}`}>
